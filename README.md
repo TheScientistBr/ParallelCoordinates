@@ -7,7 +7,7 @@ output: html_document
 
 ## ELECTRONIC CATALOGS BASED ON PARALLEL COORDINATES
 
-TThis dissertation introduces and empirically validates a new proposal in Electronic 
+This dissertation introduces and empirically validates a new proposal in Electronic 
 Catalogs, based on Visual One Page Catalog (VOPC) [LLW 2003][L&W 2004]. The Theory 
 of Parallel Coordinates is the main theoretical basis for this study. The proposed interface to 
 Electronic Catalogs based on Parallel Coordinates presents, besides filtered products on a 
