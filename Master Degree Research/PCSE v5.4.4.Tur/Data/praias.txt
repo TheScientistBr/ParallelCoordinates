@@ -1,0 +1,394 @@
+Boa Viagem,PE
+Cabo de Santo Agostinho,PE
+Tamandaré,PE
+Carneiros,PE
+Cupe,PE
+Enseada dos Golfinhos,PE
+Forte Orange,PE
+Itapuama,PE
+Macaraípe,PE
+Maria Farinha,PE
+Muro Alto,PE
+Piedade,PE
+Ponta de Serrambi,PE
+Porto,PE
+Porto de Galinhas,PE
+Rio Doce,PE
+Sossego,PE
+Tamandaré,PE
+Toquinho,PE
+Baleia,CE
+Barra Nova,CE
+Canoa Quebrada,CE
+Caponga,CE
+Cumbuco,CE
+Fontes,CE
+Formosa,CE
+Futuro,CE
+Guajiru,CE
+Icaraí,CE
+Ideal,CE
+Iracema,CE
+Jericoacoara,CE
+Lagoinha,CE
+Malhada,CE
+Meireles,CE
+Morro Branco,CE
+Mucuripe,CE
+Mundaú,CE
+Náutico,CE
+Nova Tatajuba,CE
+Pacheco,CE
+Porto das Dunas,CE
+Presídio,CE
+Redondas,CE
+Taíba,CE
+Alcobaça,BA
+Amaralina,BA
+Apaga Fogo,BA
+Araçaípe,BA
+Aratuba,BA
+Arembepe,BA
+Armação,BA
+Arraial D'Ajuda,BA
+Back Door,BA
+Barra,BA
+Boca do Rio,BA
+Buraquinho,BA
+Busca Vida,BA
+Canabrava,BA
+Caraíva,BA
+Coroa Vermelha,BA
+Costa Dourada,BA
+Cumuruxatiba,BA
+Curuípe,BA
+Farol da Barra,BA
+Forte,BA
+Gamboa,BA
+Guaibim,BA
+Guarajuba,BA
+Guaratiba,BA
+Ilha de Boipeba,BA
+Ilha de Itaparica,BA
+Ilha de Tinharé,BA
+Imbassaí,BA
+Ipitanga,BA
+Itacaré,BA
+Itacimirim,BA
+Itaparica,BA
+Itaperapuã,BA
+Itapuã,BA
+Jaguaribe,BA
+Jairí,BA
+Jauá,BA
+Lagoa Pequena,BA
+Milionários,BA
+Morro de São Paulo,BA
+Mucugê,BA
+Mucuri,BA
+Mundaí,BA
+Mutá,BA
+Nativos,BA
+Novo Prado,BA
+Olivença,BA
+Ondina,BA
+Paixão,BA
+Pitinga,BA
+Pituba,BA
+Ponta de Areia,BA
+Ponta do Corumbau,BA
+Porto da Barra,BA
+Prado,BA
+Primeira Praia,BA
+Quarta Praia,BA
+Quinta Praia,BA
+Rio do Peixe,BA
+Rio do Peixe Grande,BA
+Santa Cruz Cabrália,BA
+Sarafina,BA
+Segunda Praia,BA
+Sitio,BA
+Subaúma,BA
+Taperapuã,BA
+Taquari,BA
+Terceira Praia,BA
+Trancoso,BA
+Três Coqueiros,BA
+Vilas do Atlântico,BA
+Acores,SC
+Pantano do Sul,SC
+Aquario Municipal,SP
+Araca,SC
+Armacão,SC
+Arpoador,RJ
+Arrastão,SP
+As Ilhas,SP
+Astúrias,SP
+Iperoig,SP
+Azeda e Azedinha,RJ
+Baleia,SP
+Balneario Camboriú,SC
+Balneario de Capri,SC
+Balneario de Paulas,SC
+Banana´s Point,SP
+Barequecaba,SP
+Barra,SC
+Barra da Guaratiba,RJ
+Barra da Lagoa,SC
+Barra da Tijuca,RJ
+Barra do Sahy,SP
+Barra do Una,SP
+Barra do Una,SP
+Bertioga,SP
+Boicucanga,SP
+Bombas,SC
+Bombinhas,SC
+Boraceia,SP
+Botafogo,RJ
+Brava de Guaeca,SP
+Brava do Camburi,SP
+Búzios,RJ
+Cachoeira da Brava,SP
+Cachoeira da Brava do Cepilho,RJ
+Cachoeira da Feiticeira,RJ
+Cachoeira de Calhetas,SP
+Cachoeira do Bom Jesus,SC
+Cacupe,SC
+Caieira da Barra do Sul,SC
+Calhetas,SP
+Camburi,ES
+Campeche,SC
+Canasvieras,SC
+Cardoso,SC
+Castelhanos,SP
+Cigana,SC
+Copacabana,RJ
+Cristo Luz,SC
+Daniela,SC
+Domingas Dias,SP
+Encantadas (Praia de Fora),PR
+Enseada,SP
+Estaleiros,SC
+Farol da Barra,SP
+Farol das Conchas,PR
+Farol de Santa Marta,SC
+Ferradura,RJ
+Ferradurinha,RJ
+Ferrugem,SC
+Flamengo,RJ
+Florianopolis,SC
+Fortaleza de Nossa Senhora da Conceicão,SC
+Fortaleza de Santa Cruz,SC
+Ilha de Anhatomirim,SC
+Fortaleza de Santana,SC
+Fortaleza de Santo Amaro,SP
+Fortaleza de Santo Antônio,SC
+Forte de Jurerê,SC
+Forte da Boa Viagem,RJ
+Forte de Copacabana,RJ
+Forte do Gragoata,RJ
+Fortes do Imbui,RJ
+Barão do Rio Branco,RJ
+Galheta,SC
+Gamboa,SC
+Garopaba,SC
+Grande,SC
+Grande de Palmas,RJ
+Gravata,SC
+Grumari,RJ
+Guaeca,SP
+Guarda do Embaú,RJ
+Guarda do Embaú,SC
+Guaruja,SP
+Ibiraquera,SC
+Ilha Anchieta,SP
+Ilha das Couves,SP
+Ilha de Porto Belo,SC
+Ilha de Toque-Toque Grande,SP
+Ilha do Campeche,SC
+Ilha do Campeche,SC
+Ilha do Mel,PR
+Ilha grande,RJ
+Ilha Montão de Trigo,SP
+Ilhabela,SP
+Ilhas da Reserva do Arvoredo,SC
+Ilhas de Bombinhas,SC
+imbituba,SC
+Ingleses,SC
+Ipanema,RJ
+Itagua,SP
+Itamambuca,SP
+Itapiruba,SC
+Itaúnas,ES
+Jardim a beira-mar,SP
+João Fernandes,RJ
+João Fernandinho,RJ
+Joaquina,SC
+Juquehy,SP
+Jureia,SP
+Jureia Itatins,SP
+Jurerê,SC
+Jurerê Internacional,SC
+Lagoa da Conceicão,SC
+Lagoa de Jacone,RJ
+Lagoinha,SC
+Lagoinha,SP
+Lagoinha do Leste,SC
+Leblon,RJ
+Leme,RJ
+Lopes Mendes,RJ
+Mangues,RJ
+Maresias,SP
+Matadeiro,SC
+Mergulho na Ilha,SC
+Mocambique,SC
+Morro das Pedras,SC
+Naufragados,SC
+Niteroi,RJ
+Nova Brasilia,PR
+Parque Estadual da Serra do Mar,SP
+Núcleo Picinguaba,SP
+Parque Unipraias,SC
+Paúba,SP
+Pedra da Vigia,SC
+Pedra do Urubu,SC
+Pepino,RJ
+Perequê,SC
+Peruibe,SP
+Picinguaba,SP
+Piscina do Cachadaco,RJ
+Pitangueiras,SP
+Ponta da Galheta,SC
+Ponta das Canas,SC
+Peruibe,SP
+Porto Belo,SC
+Praia Brava,RJ
+Praia Brava,SC
+Praia Brava,SP
+Praia Brava do Cepilho,RJ
+Praia da Armacão,RJ
+Praia da Boa Viagem,RJ
+Praia da Enseada,SC
+Praia da Enseada,ES
+Curva da jurema,ES
+Praia da Fazenda,SP
+Praia da Fortaleza,PR
+Praia da Gruta,PR
+Praia da Ilha do Campeche,SC
+Praia da Silveira,SC
+Praia da Tainha,SC
+Praia da Tartaruga,RJ
+Praia da Vila,RJ
+Praia das Flexas,RJ
+Praia de Adão e Eva,RJ
+Praia de Balneario Camboriú,RJ
+Praia de Barra Nova,RJ
+Praia de Bombinhas,SC
+Praia de Camboinhas,RJ
+Praia de Charitas,RJ
+Praia de Codos,RJ
+Praia de Fora,PR
+Praia de Fora,RJ
+Praia dos Rancho,RJ
+Praia de Garopaba,SC
+Praia de Geriba,RJ
+Praia de Gragoata,RJ
+Praia de Icarai,RJ
+Praia de Itacoatiara,RJ
+Praia de Itaguacu,SC
+Praia de Itaipu,RJ
+Praia de Itaúna,RJ
+Praia de Jacone,RJ
+Praia de Jurujuba,RJ
+Praia de Manguinhos,RJ
+Praia de Mariscal,SC
+Praia de Massambaba,RJ
+Praia de Piratininga,RJ
+Praia de Porto Belo,RJ
+Praia de Quatro Ilhas,SC
+Praia de São Francisco,RJ
+Praia de Saquarema,RJ
+Praia de Ubatuba,SC
+Praia de Zimbros,SC
+Praia do Alto,SP
+Praia do Cachadaco,RJ
+Praia do Canto,ES
+Praia do Canto Grande,SC
+Praia do Cepilho,RJ
+Praia do Costão,SP
+Praia do Engenho,SP
+Praia do Farol das Conchas,PR
+Praia do Felix,SP
+Praia do Forte,SC
+Praia do Lazaro,SP
+Praia do Leste,SP
+Praia do Luz,SC
+Praia do Meio,RJ
+Praia do Miguel,PR
+Praia do Molhe,SC
+Praia do Pinho,SC
+Praia do Porto,SC
+Praia do Presidio,SP
+Praia do Siriú,SC
+Praia do Sossego,RJ
+Praia do Sul,SP
+Praia do Tombo,SP
+Praia dos Ossos,RJ
+Praia dos Pelados,RJ
+Praia Grande,PR
+Praia Grande,SC
+Praia Grande,SP
+Praia Grande,SP
+Praia Mole,SC
+Praia Preta,SP
+Praia Preta,RJ
+Praia Lazareto,RJ
+Praias da Ilha do Boi,ES
+Praias da Ilha do Frade,ES
+Praias de Santos,SP
+Praias do Centro,SP
+Prainha,SC
+Prainha,SP
+Praia da Saudade,SC
+Praia do Presidio,SP
+Prumirim,SP
+Reserva do Arvoredo,SC
+Retiro dos Jesuitas,SC
+Retiro dos Padres,SC
+Ribanceira,SC
+Ribeirão da Ilha,SC
+Rio de Janeiro,SC
+Rosa,SC
+Sambaqui,SC
+Santiago,SP
+Santinho,SC
+Santos,SP
+São Conrado,RJ
+São Francisco do Sul,SC
+São Lourenco,SP
+São Sebastião,SP
+Saquarema,RJ
+Saquinho,SC
+Sete Fontes,SP
+Solidão,SC
+Taquarinhas,SC
+Tenorio,SP
+Toque Toque Grande,SP
+Toque Toque Pequeno,SP
+Trapiche,SC
+Trindade,RJ
+Ubatuba,SP
+Vermelha,RJ
+Vermelha,SC
+Vermelha do Centro,SP
+Vermelha do Norte,SP
+Vila,SC
+Vila do Abraão,RJ
+Praia do Abraão,RJ
+Vitoria,ES
+Calhau,MA
+Ponta D'Areia,MA
+Praias de São Luís,MA
+Praias do Maranhão,MA
+Praias do Nordeste,MA
+São Marcos,MA

@@ -1,0 +1,76 @@
+23/03/2015,22:19:24,Inicio do Teste
+23/03/2015,22:19:24,Atributo Disponivel C Distancia da Rodoviária apontaC Distancia da Rodoviária
+23/03/2015,22:19:25,Atributo Disponivel C Distancia da Praia apontado peC Distancia da Praia
+23/03/2015,22:19:25,Atributo Disponivel B Espírito Santo apontado pelo mB Espírito Santo
+23/03/2015,22:19:25,Atributo Disponivel B Ceará apontado pelo mouse
+23/03/2015,22:19:25,Atributo Disponivel B Bahia apontado pelo mouse
+23/03/2015,22:19:27,Atributo Disponivel A Preço (R$) apontado pelo mouseA Preço (R$)
+23/03/2015,22:19:27,Atributo a selecionar clicado: A Preço (R$)
+23/03/2015,22:19:27,Atributo Disponivel B Bahia apontado pelo mouse
+23/03/2015,22:19:28,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+23/03/2015,22:19:28,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+23/03/2015,22:19:28,Atributo Disponivel B São Paulo apontado pelo mouse
+23/03/2015,22:19:28,Atributo Disponivel C Distancia da Ferroviária apontC Distancia da Ferroviária
+23/03/2015,22:19:30,Atributo Disponivel C Distancia da Praia apontado peC Distancia da Praia
+23/03/2015,22:19:30,Atributo a selecionar clicado: C Distancia da Praia
+23/03/2015,22:19:30,Atributo Disponivel C Distancia da Rodoviária apontaC Distancia da Rodoviária
+23/03/2015,22:19:31,Atributo Disponivel C Distancia do Aeroporto apontadC Distancia do Aeroporto
+23/03/2015,22:19:31,Atributo Disponivel D Ar-Condicionado apontado pelo D Ar-Condicionado
+23/03/2015,22:19:31,Atributo Disponivel D Cofre apontado pelo mouse
+23/03/2015,22:19:31,Atributo Disponivel D Computador apontado pelo mouseD Computador
+23/03/2015,22:19:31,Atributo Disponivel D Correios apontado pelo mouse
+23/03/2015,22:19:31,Atributo Disponivel D Fitness apontado pelo mouse
+23/03/2015,22:19:33,Atributo Disponivel D Frigobar apontado pelo mouse
+23/03/2015,22:19:33,Atributo Disponivel D Ar-Condicionado apontado pelo D Ar-Condicionado
+23/03/2015,22:19:34,Atributo Disponivel C Distancia do Aeroporto apontadC Distancia do Aeroporto
+23/03/2015,22:19:37,Atributo Disponivel D Ar-Condicionado apontado pelo D Ar-Condicionado
+23/03/2015,22:19:38,Atributo Disponivel B Espírito Santo apontado pelo mB Espírito Santo
+23/03/2015,22:19:38,Atributo a selecionar clicado: B Espírito Santo
+23/03/2015,22:19:38,Atributo Disponivel B Maranhão apontado pelo mouse
+23/03/2015,22:19:40,Atributo Disponivel B Bahia apontado pelo mouse
+23/03/2015,22:19:41,Atributo Disponivel B Ceará apontado pelo mouse
+23/03/2015,22:19:44,Atributo Selecionado A Preço (R$) apontado pelo mouse
+23/03/2015,22:19:44,Atributo Selecionado C Distancia da Praia apontado pelo mouse
+23/03/2015,22:19:52,Atributo Selecionado A Preço (R$) apontado pelo mouse
+23/03/2015,22:19:55,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+23/03/2015,22:19:55,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+23/03/2015,22:19:55,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+23/03/2015,22:19:55,Atributo Disponivel B São Paulo apontado pelo mouse
+23/03/2015,22:19:55,Atributo Disponivel C Distancia da Ferroviária apontC Distancia da Ferroviária
+23/03/2015,22:19:55,Atributo Disponivel C Distancia da Rodoviária apontaC Distancia da Rodoviária
+23/03/2015,22:19:55,Atributo Disponivel C Distancia do Aeroporto apontadC Distancia do Aeroporto
+23/03/2015,22:19:55,Atributo Disponivel D Ar-Condicionado apontado pelo D Ar-Condicionado
+23/03/2015,22:19:55,Atributo Disponivel D Cofre apontado pelo mouse
+23/03/2015,22:19:55,Atributo Disponivel D Computador apontado pelo mouseD Computador
+23/03/2015,22:19:55,Atributo Disponivel D Correios apontado pelo mouse
+23/03/2015,22:19:56,Atributo Disponivel D Computador apontado pelo mouseD Computador
+23/03/2015,22:19:57,Atributo a selecionar clicado: D Computador
+23/03/2015,22:19:57,Atributo Disponivel D Correios apontado pelo mouse
+23/03/2015,22:19:58,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+23/03/2015,22:19:59,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+23/03/2015,22:20:01,Atributo Selecionado D Computador apontado pelo mouse
+23/03/2015,22:20:04,Atributo Selecionado A Preço (R$) apontado pelo mouse
+23/03/2015,22:20:07,Atributo Disponivel D Secador de cabelos apontado peD Secador de cabelos
+23/03/2015,22:20:07,Atributo Disponivel D Refeições apontado pelo mouse
+23/03/2015,22:20:09,Atributo Disponivel D Piscina apontado pelo mouse
+23/03/2015,22:20:09,Atributo Disponivel D Número de camas apontado pelo D Número de camas
+23/03/2015,22:20:10,Atributo Disponivel D Itens de Lazer apontado pelo mD Itens de Lazer
+23/03/2015,22:20:12,Atributo Disponivel D Frigobar apontado pelo mouse
+23/03/2015,22:20:12,Atributo Disponivel D Fitness apontado pelo mouse
+23/03/2015,22:20:13,Atributo Disponivel C Distancia da Ferroviária apontC Distancia da Ferroviária
+23/03/2015,22:20:13,Atributo Disponivel B São Paulo apontado pelo mouse
+23/03/2015,22:20:13,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+23/03/2015,22:20:13,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+23/03/2015,22:20:13,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+23/03/2015,22:20:13,Atributo Disponivel B Paraná apontado pelo mouse
+23/03/2015,22:20:14,Atributo Disponivel B Maranhão apontado pelo mouse
+23/03/2015,22:20:14,Atributo Disponivel B Ceará apontado pelo mouse
+23/03/2015,22:20:14,Atributo Disponivel B Bahia apontado pelo mouse
+23/03/2015,22:20:14,Atributo Disponivel A Estrelas apontado pelo mouse
+23/03/2015,22:20:14,Atributo Selecionado C Distancia da Praia apontado pelo mouse
+23/03/2015,22:20:14,Atributo Selecionado B Espírito Santo apontado pelo mouse
+23/03/2015,22:20:14,Atributo Selecionado D Computador apontado pelo mouse
+23/03/2015,22:20:18,Atributo Disponivel B Ceará apontado pelo mouse
+23/03/2015,22:20:18,Atributo Disponivel B Maranhão apontado pelo mouse
+23/03/2015,22:20:18,Atributo Disponivel B Paraná apontado pelo mouse
+23/03/2015,22:20:24,Produtos Lidos: 119 para 4 atributos selecionados

@@ -1,0 +1,47 @@
+# Arquivo de atributos de telefones celular
+#
+# Definição do registro:
+#
+# codigo,descrição,tipo,ordem,imagens
+#
+# sendo tipo(n=nominal,o=ordinal, i=intervalar)
+#
+#      ordem(d=decrecente, c=crescente, n=nenhum)
+#
+# Gerado por eAtributos em 19/7/2005
+# 
+ 1,A Estrelas,i,c,imagens/Atributos/Estrelas.bmp
+ 2,D Ar-Condicionado,i,c,imagens/Atributos/acondicionado.bmp
+ 3,D Computador,n,n,imagens/Atributos/computador.bmp
+ 4,C Distancia do Aeroporto,i,d,imagens/Atributos/daeroporto.bmp
+ 5,C Distancia da Ferroviária,i,d,imagens/Atributos/dferr.bmp
+ 6,C Distancia da Praia,i,d,imagens/Atributos/dpraia.bmp
+ 7,C Distancia da Rodoviária,i,d,imagens/Atributos/drodo.bmp
+ 8,D Frigobar,n,n,imagens/Atributos/frigobar.bmp
+ 9,D Internet,n,n,imagens/Atributos/internet.bmp
+10,D Itens de Lazer,i,c,imagens/Atributos/lazer.bmp
+11,D Número de camas,i,c,imagens/Atributos/camas.bmp
+12,A Preço (R$),i,d,imagens/Atributos/preco.bmp
+13,D Refeições,i,c,imagens/Atributos/refeicoes.bmp
+14,D Sala de Jogos,i,c,imagens/Atributos/jogos.bmp
+15,D Secador de cabelos,n,n,imagens/Atributos/secabelos.bmp
+16,D Cofre,n,n,imagens/Atributos/cofre.bmp
+17,D Correios,n,n,imagens/Atributos/correios.bmp
+18,D Garagem,i,c,imagens/Atributos/estacionamento.bmp
+19,D Fitness,n,n,imagens/Atributos/fitness.bmp
+20,D Lavanderia,n,n,imagens/Atributos/lavanderia.bmp
+21,D Massagem,n,n,imagens/Atributos/massagem.bmp
+22,D Piscina,n,n,imagens/Atributos/piscina.bmp
+23,D Sauna Seca,n,n,imagens/Atributos/saunas.bmp
+24,D Sauna Úmida,n,n,imagens/Atributos/saunav.bmp
+25,D Telefone,n,n,imagens/Atributos/telefone.bmp
+26,B Bahia,n,n,imagens/Atributos/camping.bmp
+27,B Ceará,n,n,imagens/Atributos/chales.bmp
+28,B Espírito Santo,n,n,imagens/Atributos/fazendas.bmp
+29,B Maranhão,n,n,imagens/Atributos/hoteis.bmp
+30,B Pernambuco,n,n,imagens/Atributos/pousadas.bmp
+31,B Paraná,n,n,imagens/Atributos/resorts.bmp
+32,B Rio de Janeiro,n,n,imagens/Atributos/trailers.bmp
+33,B Santa Catarina,n,n,imagens/Atributos/vilas.bmp
+34,B São Paulo,n,n,imagens/Atributos/voltagem.bmp
+35,D Televisão,i,c,imagens/Atributos/tvcanais.bmp

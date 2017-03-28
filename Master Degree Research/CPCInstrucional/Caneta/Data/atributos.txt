@@ -1,0 +1,7 @@
+1,A Tamanho,i,c,imagens/Atributos/tamanho.bmp
+2,A Tampa,n,n,imagens/Atributos/tampa.bmp
+3,A Preço,i,d,imagens/Atributos/preco.bmp
+4,A Peso,i,d,imagens/Atributos/peso.bmp
+5,B Azul,i,c,imagens/Atributos/azul.bmp
+6,B Vermelho,i,c,imagens/Atributos/red.bmp
+7,B Preta,i,c,imagens/Atributos/preta.bmp

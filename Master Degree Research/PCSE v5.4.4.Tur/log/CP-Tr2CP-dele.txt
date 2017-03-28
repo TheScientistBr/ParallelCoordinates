@@ -1,0 +1,698 @@
+12/3/2015,14:24:38,Inicio do Teste
+12/3/2015,14:24:39,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:24:39,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:24:39,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:24:40,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:24:40,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:24:41,Disponivel B Ceará apontado pelo mouse
+12/3/2015,14:24:43,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:24:43,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:24:43,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:24:44,Disponivel D Frigobar apontado pelo mouse
+12/3/2015,14:24:44,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:24:44,Disponivel D Computador apontado pelo mouse
+12/3/2015,14:24:44,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:24:44,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:24:44,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:24:44,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:24:44,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:24:44,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:24:44,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:24:45,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:24:45,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:24:45,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:24:46,Disponivel B Espírito Santo apontado pelo mouse
+12/3/2015,14:24:46,Disponivel B Ceará apontado pelo mouse
+12/3/2015,14:24:46,Disponivel B Bahia apontado pelo mouse
+12/3/2015,14:24:46,Disponivel A Preço (R$) apontado pelo mouse
+12/3/2015,14:24:46,Disponivel A Estrelas apontado pelo mouse
+12/3/2015,14:24:46,Disponivel A Preço (R$) apontado pelo mouse
+12/3/2015,14:24:52,A Preço (R$)
+12/3/2015,14:24:52,Leitura de 5894 produtos para 1 atributos selecionados
+12/3/2015,14:24:52,Disponivel B Bahia apontado pelo mouse
+12/3/2015,14:24:53,Disponivel B Ceará apontado pelo mouse
+12/3/2015,14:24:53,Disponivel B Espírito Santo apontado pelo mouse
+12/3/2015,14:24:54,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:24:54,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:24:54,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:24:54,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:24:54,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:24:54,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:24:54,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:24:56,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:24:56,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:24:59,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:25:02,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:25:02,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:25:02,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:25:02,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:25:02,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:25:02,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:25:02,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:25:06,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:25:06,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:25:06,Disponivel B Espírito Santo apontado pelo mouse
+12/3/2015,14:25:07,B Espírito Santo
+12/3/2015,14:25:07,Leitura de 119 produtos para 2 atributos selecionados
+12/3/2015,14:25:07,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:25:09,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:25:09,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:25:09,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:25:09,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:25:09,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:25:09,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:25:09,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:25:09,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:25:09,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:25:09,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:25:09,Disponivel D Cofre apontado pelo mouse
+12/3/2015,14:25:09,Disponivel D Computador apontado pelo mouse
+12/3/2015,14:25:10,Disponivel D Correios apontado pelo mouse
+12/3/2015,14:25:10,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:25:11,Disponivel D Frigobar apontado pelo mouse
+12/3/2015,14:25:12,D Frigobar
+12/3/2015,14:25:12,Leitura de 55 produtos para 3 atributos selecionados
+12/3/2015,14:25:12,Disponivel D Garagem apontado pelo mouse
+12/3/2015,14:25:15,Disponivel D Internet apontado pelo mouse
+12/3/2015,14:25:15,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:25:15,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:25:15,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:25:17,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:25:17,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:25:17,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:25:19,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:25:20,Disponivel D Refeições apontado pelo mouse
+12/3/2015,14:25:20,Disponivel D Sala de Jogos apontado pelo mouse
+12/3/2015,14:25:24,Disponivel D Refeições apontado pelo mouse
+12/3/2015,14:25:24,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:25:24,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:25:24,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:25:25,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:25:25,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:25:25,Disponivel D Internet apontado pelo mouse
+12/3/2015,14:25:25,Disponivel D Garagem apontado pelo mouse
+12/3/2015,14:25:25,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:25:28,Disponivel D Garagem apontado pelo mouse
+12/3/2015,14:25:28,Disponivel D Internet apontado pelo mouse
+12/3/2015,14:25:29,D Internet
+12/3/2015,14:25:29,Leitura de 38 produtos para 4 atributos selecionados
+12/3/2015,14:25:29,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Refeições apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Sala de Jogos apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Sauna Seca apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Sauna Úmida apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Secador de cabelos apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Telefone apontado pelo mouse
+12/3/2015,14:25:40,Disponivel D Televisão apontado pelo mouse
+12/3/2015,14:25:41,Disponivel D Telefone apontado pelo mouse
+12/3/2015,14:25:42,Disponivel D Televisão apontado pelo mouse
+12/3/2015,14:25:43,D Televisão
+12/3/2015,14:25:43,Leitura de 919 produtos para 5 atributos selecionados
+12/3/2015,14:25:46,Disponivel D Telefone apontado pelo mouse
+12/3/2015,14:25:46,Disponivel D Sauna Úmida apontado pelo mouse
+12/3/2015,14:25:46,Disponivel D Refeições apontado pelo mouse
+12/3/2015,14:25:46,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:25:46,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:25:46,Disponivel D Correios apontado pelo mouse
+12/3/2015,14:25:46,Disponivel D Cofre apontado pelo mouse
+12/3/2015,14:25:46,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:25:46,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:25:46,Selecionado D Internet apontado pelo mouse
+12/3/2015,14:25:46,Selecionado D Frigobar apontado pelo mouse
+12/3/2015,14:25:47,Selecionado D Televisão apontado pelo mouse
+12/3/2015,14:25:47,Selecionado B Espírito Santo apontado pelo mouse
+12/3/2015,14:25:52,B Espírito Santo
+12/3/2015,14:25:52,Leitura de 919 produtos para 4 atributos selecionados
+12/3/2015,14:25:52,Selecionado D Televisão apontado pelo mouse
+12/3/2015,14:25:53,Selecionado D Frigobar apontado pelo mouse
+12/3/2015,14:25:53,Selecionado D Internet apontado pelo mouse
+12/3/2015,14:25:53,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:25:53,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:25:54,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:25:54,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:25:54,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:25:55,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:25:55,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:25:55,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:25:55,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:25:58,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:25:58,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:25:58,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:26:04,Disponivel B Espírito Santo apontado pelo mouse
+12/3/2015,14:26:04,B Espírito Santo
+12/3/2015,14:26:04,Leitura de 919 produtos para 5 atributos selecionados
+12/3/2015,14:26:04,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:26:06,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:26:06,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:26:06,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:26:06,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:26:06,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:26:06,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:26:06,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:26:06,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:26:06,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:26:06,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:26:07,Disponivel D Cofre apontado pelo mouse
+12/3/2015,14:26:07,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:26:08,D Ar-Condicionado
+12/3/2015,14:26:08,Leitura de 720 produtos para 6 atributos selecionados
+12/3/2015,14:26:08,Disponivel D Cofre apontado pelo mouse
+12/3/2015,14:26:10,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:26:10,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:26:10,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:26:10,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:26:10,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:26:10,Selecionado D Frigobar apontado pelo mouse
+12/3/2015,14:26:10,Selecionado D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:26:10,Selecionado B Espírito Santo apontado pelo mouse
+12/3/2015,14:26:10,Selecionado D Televisão apontado pelo mouse
+12/3/2015,14:26:11,Selecionado A Preço (R$) apontado pelo mouse
+12/3/2015,14:26:15,||-COord desligada
+12/3/2015,14:26:15,Leitura de 720 produtos para 6 atributos selecionados
+12/3/2015,14:26:17,||-COord ligada
+12/3/2015,14:26:18,Leitura de 720 produtos para 6 atributos selecionados
+12/3/2015,14:26:19,Disponivel A Estrelas apontado pelo mouse
+12/3/2015,14:26:19,Disponivel B Bahia apontado pelo mouse
+12/3/2015,14:26:19,Disponivel B Ceará apontado pelo mouse
+12/3/2015,14:26:19,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:26:19,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:26:23,Selecionado D Internet apontado pelo mouse
+12/3/2015,14:26:23,Selecionado D Frigobar apontado pelo mouse
+12/3/2015,14:26:29,Importancia do atributo B Espírito Santo para 70
+12/3/2015,14:26:29,Importancia do atributo B Espírito Santo para 50
+12/3/2015,14:26:29,-1.00B Espírito Santo selecionado apontado pelo mouse
+12/3/2015,14:26:31,Importancia do atributo D Televisão para 75
+12/3/2015,14:26:31,1.00D Televisão selecionado apontado pelo mouse
+12/3/2015,14:26:32,Importancia do atributo B Espírito Santo para 50
+12/3/2015,14:26:32,-1.00B Espírito Santo selecionado apontado pelo mouse
+12/3/2015,14:26:46,FIM da aplicação
+12/3/2015,14:27:52,Inicio do Teste
+12/3/2015,14:27:57,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Espírito Santo apontado pelo mouse
+12/3/2015,14:27:57,Disponivel B Ceará apontado pelo mouse
+12/3/2015,14:27:58,Disponivel B Bahia apontado pelo mouse
+12/3/2015,14:27:58,Disponivel A Preço (R$) apontado pelo mouse
+12/3/2015,14:27:58,A Preço (R$)
+12/3/2015,14:27:59,Leitura de 5894 produtos para 1 atributos selecionados
+12/3/2015,14:27:59,Disponivel B Bahia apontado pelo mouse
+12/3/2015,14:27:59,Disponivel B Ceará apontado pelo mouse
+12/3/2015,14:28:00,Disponivel B Espírito Santo apontado pelo mouse
+12/3/2015,14:28:00,B Espírito Santo
+12/3/2015,14:28:01,Leitura de 119 produtos para 2 atributos selecionados
+12/3/2015,14:28:01,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:28:02,Disponivel B Paraná apontado pelo mouse
+12/3/2015,14:28:02,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:28:02,Disponivel B Santa Catarina apontado pelo mouse
+12/3/2015,14:28:02,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:28:02,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:28:02,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:28:02,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:28:02,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:28:02,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Cofre apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Computador apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Correios apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Frigobar apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Garagem apontado pelo mouse
+12/3/2015,14:28:02,Disponivel D Frigobar apontado pelo mouse
+12/3/2015,14:28:03,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:28:03,Disponivel D Correios apontado pelo mouse
+12/3/2015,14:28:03,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:28:03,Disponivel D Frigobar apontado pelo mouse
+12/3/2015,14:28:04,D Frigobar
+12/3/2015,14:28:04,Leitura de 55 produtos para 3 atributos selecionados
+12/3/2015,14:28:04,Disponivel D Garagem apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Internet apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Sala de Jogos apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Sauna Seca apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Sauna Úmida apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Secador de cabelos apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Telefone apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Televisão apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Telefone apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Secador de cabelos apontado pelo mouse
+12/3/2015,14:28:05,Disponivel D Sauna Úmida apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Sauna Seca apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Sala de Jogos apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Refeições apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:28:06,Disponivel D Internet apontado pelo mouse
+12/3/2015,14:28:07,D Internet
+12/3/2015,14:28:07,Leitura de 38 produtos para 4 atributos selecionados
+12/3/2015,14:28:07,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:28:11,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:28:14,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:28:15,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:28:15,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:28:16,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:28:17,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:28:17,Disponivel D Refeições apontado pelo mouse
+12/3/2015,14:28:18,Disponivel D Sala de Jogos apontado pelo mouse
+12/3/2015,14:28:19,Disponivel D Sauna Seca apontado pelo mouse
+12/3/2015,14:28:19,Disponivel D Sauna Úmida apontado pelo mouse
+12/3/2015,14:28:19,Disponivel D Secador de cabelos apontado pelo mouse
+12/3/2015,14:28:20,Disponivel D Telefone apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Secador de cabelos apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Sauna Úmida apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Sala de Jogos apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Piscina apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Número de camas apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Massagem apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Lavanderia apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Itens de Lazer apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Garagem apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Fitness apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Correios apontado pelo mouse
+12/3/2015,14:28:22,Disponivel D Computador apontado pelo mouse
+12/3/2015,14:28:28,Disponivel D Cofre apontado pelo mouse
+12/3/2015,14:28:28,D Cofre
+12/3/2015,14:28:28,Leitura de 16 produtos para 5 atributos selecionados
+12/3/2015,14:28:28,Disponivel D Computador apontado pelo mouse
+12/3/2015,14:28:34,Disponivel D Ar-Condicionado apontado pelo mouse
+12/3/2015,14:28:34,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/3/2015,14:28:34,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:28:34,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:28:34,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:28:34,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:28:35,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+12/3/2015,14:28:35,Disponivel C Distancia da Praia apontado pelo mouse
+12/3/2015,14:28:36,C Distancia da Praia
+12/3/2015,14:28:37,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:28:37,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/3/2015,14:28:41,Disponivel B São Paulo apontado pelo mouse
+12/3/2015,14:28:42,Disponivel B Rio de Janeiro apontado pelo mouse
+12/3/2015,14:28:42,Disponivel B Pernambuco apontado pelo mouse
+12/3/2015,14:28:42,Disponivel B Maranhão apontado pelo mouse
+12/3/2015,14:28:42,Disponivel B Bahia apontado pelo mouse
+12/3/2015,14:28:42,Disponivel A Estrelas apontado pelo mouse
+12/3/2015,14:28:45,Importancia do atributo C Distancia da Praia para 61
+12/3/2015,14:28:45,Importancia do atributo C Distancia da Praia para 33
+12/3/2015,14:28:45,6.00C Distancia da Praia selecionado apontado pelo mouse
+12/3/2015,14:28:48,Prioridade (+) para B Espírito Santo
+12/3/2015,14:28:48,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:29:24,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:29:26,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:29:29,Alterando degrade X: 347Alterando degrade Y: 242
+12/3/2015,14:29:29,Resposta Não e programa continua!!!
+12/3/2015,14:29:29,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:29:33,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:29:54,39.78A Preço (R$) selecionado apontado pelo mouse
+12/3/2015,14:29:56,Importancia do atributo C Distancia da Praia para 66
+12/3/2015,14:29:56,6.00C Distancia da Praia selecionado apontado pelo mouse
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 66
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 67
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 68
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 69
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 70
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 71
+12/3/2015,14:30:02,Importancia do atributo C Distancia da Praia para 72
+12/3/2015,14:30:03,Importancia do atributo C Distancia da Praia para 73
+12/3/2015,14:30:03,Importancia do atributo C Distancia da Praia para 73
+12/3/2015,14:30:03,Importancia do atributo C Distancia da Praia para 73
+12/3/2015,14:30:05,Alteração de valores max e min.
+12/3/2015,14:30:05,C Distancia da Praia
+12/3/2015,14:30:05, 58.00
+12/3/2015,14:30:05,  6.00
+12/3/2015,14:30:05,58.00
+12/3/2015,14:30:05,6.00
+12/3/2015,14:30:06,Leitura de 16 produtos para 6 atributos selecionados
+12/3/2015,14:30:08,Importancia do atributo B Espírito Santo para 33
+12/3/2015,14:30:08,1.00B Espírito Santo selecionado apontado pelo mouse
+12/03/2015,14:36:34,Inicio do Teste
+12/03/2015,14:36:35,Disponivel B Paraná apontado pelo mouse
+12/03/2015,14:36:36,Disponivel B Maranhão apontado pelo mouse
+12/03/2015,14:36:36,Disponivel B Espírito Santo apontado pelo mouse
+12/03/2015,14:36:37,B Espírito Santo
+12/03/2015,14:36:38,Leitura de 119 produtos para 1 atributos selecionados
+12/03/2015,14:36:39,Disponivel B Bahia apontado pelo mouse
+12/03/2015,14:36:41,Disponivel A Preço (R$) apontado pelo mouse
+12/03/2015,14:36:41,A Preço (R$)
+12/03/2015,14:36:42,Leitura de 119 produtos para 2 atributos selecionados
+12/03/2015,14:36:42,Disponivel B Bahia apontado pelo mouse
+12/03/2015,14:36:44,Disponivel D Cofre apontado pelo mouse
+12/03/2015,14:36:45,Disponivel C Distancia da Praia apontado pelo mouse
+12/03/2015,14:36:45,C Distancia da Praia
+12/03/2015,14:36:47,Leitura de 119 produtos para 3 atributos selecionados
+12/03/2015,14:36:47,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+12/03/2015,14:36:55,1.00B Espírito Santo selecionado apontado pelo mouse
+12/03/2015,14:37:07,Alteração de valores max e min.
+12/03/2015,14:37:07,B Espírito Santo
+12/03/2015,14:37:07,  1.00
+12/03/2015,14:37:07,  1.00
+12/03/2015,14:37:07,1.00
+12/03/2015,14:37:07,1.00
+12/03/2015,14:37:09,Leitura de 119 produtos para 3 atributos selecionados
+12/03/2015,14:37:12,Importancia do atributo A Preço (R$) para 66
+12/03/2015,14:37:12,76.94A Preço (R$) selecionado apontado pelo mouse
+12/03/2015,14:37:18,Alteração de valores max e min.
+12/03/2015,14:37:18,A Preço (R$)
+12/03/2015,14:37:18,437.00
+12/03/2015,14:37:18, 76.94
+12/03/2015,14:37:18,437
+12/03/2015,14:37:18,76.94
+12/03/2015,14:37:20,Leitura de 65 produtos para 3 atributos selecionados
+12/03/2015,14:37:38,Importancia do atributo C Distancia da Praia para 33
+12/03/2015,14:37:38,1.00C Distancia da Praia selecionado apontado pelo mouse
+12/03/2015,14:37:44,Alteração de valores max e min.
+12/03/2015,14:37:44,C Distancia da Praia
+12/03/2015,14:37:44, 14.00
+12/03/2015,14:37:44,  1.00
+12/03/2015,14:37:44,14
+12/03/2015,14:37:44,1.00
+12/03/2015,14:37:45,Leitura de 8 produtos para 3 atributos selecionados
+12/03/2015,14:38:56,Disponivel B Bahia apontado pelo mouse
+12/03/2015,14:38:57,Disponivel B Maranhão apontado pelo mouse
+12/03/2015,14:38:57,Disponivel B Pernambuco apontado pelo mouse
+12/03/2015,14:38:57,Disponivel B Rio de Janeiro apontado pelo mouse
+12/03/2015,14:38:57,Disponivel B Santa Catarina apontado pelo mouse
+12/03/2015,14:38:57,Disponivel B São Paulo apontado pelo mouse
+12/03/2015,14:38:58,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+12/03/2015,14:38:59,Disponivel D Ar-Condicionado apontado pelo mouse
+12/03/2015,14:39:05,D Ar-Condicionado
+12/03/2015,14:39:06,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:39:07,Disponivel D Cofre apontado pelo mouse
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 33
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 34
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 35
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 37
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 39
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 40
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 42
+12/03/2015,14:39:40,Importancia do atributo C Distancia da Praia para 43
+12/03/2015,14:39:41,Importancia do atributo C Distancia da Praia para 44
+12/03/2015,14:39:41,Importancia do atributo C Distancia da Praia para 47
+12/03/2015,14:39:43,Importancia do atributo C Distancia da Praia para 47
+12/03/2015,14:39:43,Importancia do atributo C Distancia da Praia para 47
+12/03/2015,14:39:43,Alteração de valores max e min.
+12/03/2015,14:39:43,C Distancia da Praia
+12/03/2015,14:39:43, 14.00
+12/03/2015,14:39:43,  1.00
+12/03/2015,14:39:43,14.00
+12/03/2015,14:39:43,1.00
+12/03/2015,14:39:44,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:39:48,Importancia do atributo A Preço (R$) para 66
+12/03/2015,14:39:48,76.94A Preço (R$) selecionado apontado pelo mouse
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 66
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 67
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 68
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 69
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 70
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 71
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 72
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 73
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 74
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 75
+12/03/2015,14:39:50,Importancia do atributo A Preço (R$) para 76
+12/03/2015,14:39:53,Importancia do atributo A Preço (R$) para 77
+12/03/2015,14:39:53,Importancia do atributo A Preço (R$) para 77
+12/03/2015,14:39:53,Importancia do atributo A Preço (R$) para 77
+12/03/2015,14:39:53,Alteração de valores max e min.
+12/03/2015,14:39:53,A Preço (R$)
+12/03/2015,14:39:53,437.00
+12/03/2015,14:39:53, 76.94
+12/03/2015,14:39:53,437.00
+12/03/2015,14:39:53,76.94
+12/03/2015,14:39:54,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:40:00,Alterando degrade X: 279Alterando degrade Y: 329
+12/03/2015,14:40:00,Resposta Não e programa continua!!!
+12/03/2015,14:40:02,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:40:05,Alterando degrade X: 462Alterando degrade Y: 299
+12/03/2015,14:40:05,Resposta Não e programa continua!!!
+12/03/2015,14:40:07,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:40:13,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:40:18,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:40:24,Leitura de 4 produtos para 4 atributos selecionados
+12/03/2015,14:40:29,FIM da aplicação
+23/03/2015,20:33:13,Inicio do Teste
+23/03/2015,20:33:13,Disponivel B Pernambuco apontado pelo mouse
+23/03/2015,20:33:14,Disponivel B Maranhão apontado pelo mouse
+23/03/2015,20:33:14,Disponivel B Espírito Santo apontado pelo mouse
+23/03/2015,20:33:14,Disponivel B Ceará apontado pelo mouse
+23/03/2015,20:33:14,Disponivel B Bahia apontado pelo mouse
+23/03/2015,20:33:15,Disponivel A Preço (R$) apontado pelo mouse
+23/03/2015,20:33:16,Disponivel B Ceará apontado pelo mouse
+23/03/2015,20:33:16,Disponivel B Bahia apontado pelo mouse
+23/03/2015,20:33:17,Disponivel A Preço (R$) apontado pelo mouse
+23/03/2015,20:33:17,A Preço (R$)
+23/03/2015,20:33:18,Leitura de 5894 produtos para 1 atributos selecionados
+23/03/2015,20:33:19,Disponivel B Bahia apontado pelo mouse
+23/03/2015,20:33:21,Disponivel B Pernambuco apontado pelo mouse
+23/03/2015,20:33:21,Disponivel B Rio de Janeiro apontado pelo mouse
+23/03/2015,20:33:22,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+23/03/2015,20:33:23,Disponivel B Pernambuco apontado pelo mouse
+23/03/2015,20:33:23,Disponivel B Paraná apontado pelo mouse
+23/03/2015,20:33:23,Disponivel B Maranhão apontado pelo mouse
+23/03/2015,20:33:24,Disponivel B Espírito Santo apontado pelo mouse
+23/03/2015,20:33:25,B Espírito Santo
+23/03/2015,20:33:28,Leitura de 119 produtos para 2 atributos selecionados
+23/03/2015,20:33:29,Disponivel B Maranhão apontado pelo mouse
+23/03/2015,20:33:30,Disponivel C Distancia da Praia apontado pelo mouse
+23/03/2015,20:33:30,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+23/03/2015,20:33:31,Disponivel C Distancia da Praia apontado pelo mouse
+23/03/2015,20:33:33,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+23/03/2015,20:33:33,Disponivel C Distancia da Praia apontado pelo mouse
+23/03/2015,20:33:33,C Distancia da Praia
+23/03/2015,20:33:34,Leitura de 119 produtos para 3 atributos selecionados
+23/03/2015,20:33:34,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+23/03/2015,20:33:35,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+23/03/2015,20:33:35,Disponivel D Ar-Condicionado apontado pelo mouse
+23/03/2015,20:33:35,Disponivel D Cofre apontado pelo mouse
+23/03/2015,20:33:35,Disponivel D Computador apontado pelo mouse
+23/03/2015,20:33:35,Disponivel D Correios apontado pelo mouse
+23/03/2015,20:33:35,Disponivel D Fitness apontado pelo mouse
+23/03/2015,20:33:37,Disponivel D Frigobar apontado pelo mouse
+23/03/2015,20:33:37,Disponivel D Itens de Lazer apontado pelo mouse
+23/03/2015,20:33:37,Disponivel D Lavanderia apontado pelo mouse
+23/03/2015,20:33:37,Disponivel D Massagem apontado pelo mouse
+23/03/2015,20:33:37,Disponivel D Número de camas apontado pelo mouse
+23/03/2015,20:33:39,Disponivel D Sauna Seca apontado pelo mouse
+23/03/2015,20:33:40,Disponivel D Sala de Jogos apontado pelo mouse
+23/03/2015,20:33:40,Disponivel D Lavanderia apontado pelo mouse
+23/03/2015,20:33:41,Disponivel D Internet apontado pelo mouse
+23/03/2015,20:33:41,Disponivel D Garagem apontado pelo mouse
+23/03/2015,20:33:41,Disponivel D Frigobar apontado pelo mouse
+23/03/2015,20:33:41,Disponivel D Fitness apontado pelo mouse
+23/03/2015,20:33:43,Disponivel D Internet apontado pelo mouse
+23/03/2015,20:33:44,D Internet
+23/03/2015,20:33:48,Leitura de 79 produtos para 4 atributos selecionados
+23/03/2015,20:33:48,Disponivel D Frigobar apontado pelo mouse
+23/03/2015,20:33:51,Disponivel D Fitness apontado pelo mouse
+23/03/2015,20:33:51,Disponivel D Frigobar apontado pelo mouse
+23/03/2015,20:33:52,Disponivel D Itens de Lazer apontado pelo mouse
+23/03/2015,20:33:57,Disponivel D Lavanderia apontado pelo mouse
+23/03/2015,20:33:57,Disponivel D Massagem apontado pelo mouse
+23/03/2015,20:33:57,Disponivel D Número de camas apontado pelo mouse
+23/03/2015,20:33:57,Disponivel D Piscina apontado pelo mouse
+23/03/2015,20:33:57,Disponivel D Refeições apontado pelo mouse
+23/03/2015,20:33:57,Disponivel D Sala de Jogos apontado pelo mouse
+23/03/2015,20:33:58,D Sala de Jogos
+23/03/2015,20:34:00,Leitura de 55 produtos para 5 atributos selecionados
+23/03/2015,20:34:01,Disponivel D Sauna Seca apontado pelo mouse
+23/03/2015,20:34:03,Disponivel D Piscina apontado pelo mouse
+23/03/2015,20:34:05,Importancia do atributo B Espírito Santo para 90
+23/03/2015,20:34:05,Importancia do atributo B Espírito Santo para 75
+23/03/2015,20:34:05,1.00B Espírito Santo selecionado apontado pelo mouse
+23/03/2015,20:34:12,Alteração de valores max e min.
+23/03/2015,20:34:12,B Espírito Santo
+23/03/2015,20:34:12,  1.00
+23/03/2015,20:34:12,  1.00
+23/03/2015,20:34:12,1.00
+23/03/2015,20:34:12,1.00
+23/03/2015,20:34:15,Leitura de 55 produtos para 5 atributos selecionados
+23/03/2015,20:34:19,39.78A Preço (R$) selecionado apontado pelo mouse
+23/03/2015,20:34:27,Alteração de valores max e min.
+23/03/2015,20:34:27,A Preço (R$)
+23/03/2015,20:34:27,888.00
+23/03/2015,20:34:27, 39.78
+23/03/2015,20:34:27,888
+23/03/2015,20:34:27,39.78
+23/03/2015,20:34:28,Leitura de 44 produtos para 5 atributos selecionados
+23/03/2015,20:34:33,Importancia do atributo C Distancia da Praia para 50
+23/03/2015,20:34:33,1.00C Distancia da Praia selecionado apontado pelo mouse
+23/03/2015,20:34:43,Alteração de valores max e min.
+23/03/2015,20:34:43,C Distancia da Praia
+23/03/2015,20:34:43, 46.00
+23/03/2015,20:34:43,  1.00
+23/03/2015,20:34:43,46
+23/03/2015,20:34:43,1.00
+23/03/2015,20:34:44,Leitura de 36 produtos para 5 atributos selecionados
+23/03/2015,20:34:50,39.78A Preço (R$) selecionado apontado pelo mouse
+23/03/2015,20:34:55,Alteração de valores max e min.
+23/03/2015,20:34:55,A Preço (R$)
+23/03/2015,20:34:55,437.00
+23/03/2015,20:34:55, 39.78
+23/03/2015,20:34:55,437
+23/03/2015,20:34:55,39.78
+23/03/2015,20:34:56,Leitura de 14 produtos para 5 atributos selecionados
+23/03/2015,20:35:08,Importancia do atributo C Distancia da Praia para 50
+23/03/2015,20:35:08,1.00C Distancia da Praia selecionado apontado pelo mouse
+23/03/2015,20:35:12,Alteração de valores max e min.
+23/03/2015,20:35:12,C Distancia da Praia
+23/03/2015,20:35:12, 29.00
+23/03/2015,20:35:12,  1.00
+23/03/2015,20:35:12,29
+23/03/2015,20:35:12,1.00
+23/03/2015,20:35:13,Leitura de 6 produtos para 5 atributos selecionados
+23/03/2015,20:53:57,FIM da aplicação
+26/03/2015,20:26:29,Inicio do Teste
+26/03/2015,20:26:32,Disponivel B Espírito Santo apontado pelo mouse
+26/03/2015,20:26:32,Disponivel B Bahia apontado pelo mouse
+26/03/2015,20:26:32,Disponivel A Preço (R$) apontado pelo mouse
+26/03/2015,20:26:33,A Preço (R$)
+26/03/2015,20:26:34,Leitura de 5894 produtos para 1 atributos selecionados
+26/03/2015,20:26:35,Disponivel B Bahia apontado pelo mouse
+26/03/2015,20:26:46,Disponivel A Estrelas apontado pelo mouse
+26/03/2015,20:26:46,Disponivel B Pernambuco apontado pelo mouse
+26/03/2015,20:26:48,Disponivel D Itens de Lazer apontado pelo mouse
+26/03/2015,20:26:48,Disponivel D Internet apontado pelo mouse
+26/03/2015,20:26:49,Disponivel D Fitness apontado pelo mouse
+26/03/2015,20:26:49,Disponivel D Correios apontado pelo mouse
+26/03/2015,20:26:49,Disponivel D Computador apontado pelo mouse
+26/03/2015,20:26:49,Disponivel D Cofre apontado pelo mouse
+26/03/2015,20:26:49,Disponivel D Ar-Condicionado apontado pelo mouse
+26/03/2015,20:26:49,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+26/03/2015,20:26:50,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+26/03/2015,20:26:50,Disponivel C Distancia da Praia apontado pelo mouse
+26/03/2015,20:26:51,C Distancia da Praia
+26/03/2015,20:26:54,Leitura de 5758 produtos para 2 atributos selecionados
+26/03/2015,20:26:55,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+26/03/2015,20:27:06,Disponivel B Espírito Santo apontado pelo mouse
+26/03/2015,20:27:06,Disponivel B Maranhão apontado pelo mouse
+26/03/2015,20:27:06,Disponivel B Paraná apontado pelo mouse
+26/03/2015,20:27:08,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+26/03/2015,20:27:08,Disponivel D Ar-Condicionado apontado pelo mouse
+26/03/2015,20:27:09,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+26/03/2015,20:27:10,C Distancia do Aeroporto
+26/03/2015,20:27:13,Leitura de 5758 produtos para 3 atributos selecionados
+26/03/2015,20:27:14,Disponivel D Ar-Condicionado apontado pelo mouse
+26/03/2015,20:27:17,Disponivel D Computador apontado pelo mouse
+26/03/2015,20:27:17,Disponivel D Correios apontado pelo mouse
+26/03/2015,20:27:17,Disponivel D Fitness apontado pelo mouse
+26/03/2015,20:27:17,Disponivel D Frigobar apontado pelo mouse
+26/03/2015,20:27:19,Disponivel D Garagem apontado pelo mouse
+26/03/2015,20:27:19,Disponivel D Itens de Lazer apontado pelo mouse
+26/03/2015,20:27:20,Disponivel D Número de camas apontado pelo mouse
+26/03/2015,20:27:20,Disponivel D Piscina apontado pelo mouse
+26/03/2015,20:27:20,Disponivel D Refeições apontado pelo mouse
+26/03/2015,20:27:20,Disponivel D Sala de Jogos apontado pelo mouse
+26/03/2015,20:27:20,Disponivel D Sauna Seca apontado pelo mouse
+26/03/2015,20:27:22,Disponivel D Cofre apontado pelo mouse
+26/03/2015,20:27:22,Disponivel D Ar-Condicionado apontado pelo mouse
+26/03/2015,20:27:23,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+26/03/2015,20:27:23,Disponivel B São Paulo apontado pelo mouse
+26/03/2015,20:27:25,Disponivel B Espírito Santo apontado pelo mouse
+26/03/2015,20:27:26,B Espírito Santo
+26/03/2015,20:27:28,Leitura de 119 produtos para 4 atributos selecionados
+26/03/2015,20:27:29,Disponivel B Maranhão apontado pelo mouse
+26/03/2015,20:27:31,Disponivel B Paraná apontado pelo mouse
+26/03/2015,20:27:36,Disponivel B Ceará apontado pelo mouse
+26/03/2015,20:27:36,Disponivel B Bahia apontado pelo mouse
+26/03/2015,20:27:37,Disponivel A Estrelas apontado pelo mouse
+26/03/2015,20:27:39,A Estrelas
+26/03/2015,20:27:42,Leitura de 91 produtos para 5 atributos selecionados
+26/03/2015,20:27:42,Disponivel B Bahia apontado pelo mouse
+26/03/2015,20:27:46,Importancia do atributo A Estrelas para 35
+26/03/2015,20:27:46,Importancia do atributo A Estrelas para 20
+26/03/2015,20:27:46,1.00A Estrelas selecionado apontado pelo mouse
+26/03/2015,20:27:49,Prioridade (+) para B Espírito Santo
+26/03/2015,20:27:52,Leitura de 91 produtos para 5 atributos selecionados
+26/03/2015,20:27:55,Importancia do atributo A Estrelas para 40
+26/03/2015,20:27:55,Importancia do atributo C Distancia da Praia para 80
+26/03/2015,20:27:56,39.78A Preço (R$) selecionado apontado pelo mouse
+26/03/2015,20:28:04,Alteração de valores max e min.
+26/03/2015,20:28:04,A Preço (R$)
+26/03/2015,20:28:04,782.00
+26/03/2015,20:28:04, 39.78
+26/03/2015,20:28:04,782
+26/03/2015,20:28:04,39.78
+26/03/2015,20:28:07,Leitura de 70 produtos para 5 atributos selecionados
+26/03/2015,20:28:12,Importancia do atributo C Distancia da Praia para 80
+26/03/2015,20:28:12,1.00C Distancia da Praia selecionado apontado pelo mouse
+26/03/2015,20:28:12,39.78A Preço (R$) selecionado apontado pelo mouse
+26/03/2015,20:28:17,Alteração de valores max e min.
+26/03/2015,20:28:17,A Preço (R$)
+26/03/2015,20:28:17,358.00
+26/03/2015,20:28:17, 39.78
+26/03/2015,20:28:17,358
+26/03/2015,20:28:17,39.78
+26/03/2015,20:28:18,Leitura de 29 produtos para 5 atributos selecionados
+26/03/2015,20:28:23,Importancia do atributo C Distancia da Praia para 80
+26/03/2015,20:28:23,1.00C Distancia da Praia selecionado apontado pelo mouse
+26/03/2015,20:28:30,Alteração de valores max e min.
+26/03/2015,20:28:30,C Distancia da Praia
+26/03/2015,20:28:30, 46.00
+26/03/2015,20:28:30,  1.00
+26/03/2015,20:28:30,46
+26/03/2015,20:28:30,1.00
+26/03/2015,20:28:31,Leitura de 22 produtos para 5 atributos selecionados
+26/03/2015,20:28:36,3.00C Distancia do Aeroporto selecionado apontado pelo mouse
+26/03/2015,20:28:49,Alteração de valores max e min.
+26/03/2015,20:28:49,C Distancia do Aeroporto
+26/03/2015,20:28:49, 87.00
+26/03/2015,20:28:49,  3.00
+26/03/2015,20:28:49,87
+26/03/2015,20:28:49,3.00
+26/03/2015,20:28:50,Leitura de 22 produtos para 5 atributos selecionados
+26/03/2015,20:28:55,Importancia do atributo A Estrelas para 40
+26/03/2015,20:28:55,1.00A Estrelas selecionado apontado pelo mouse
+26/03/2015,20:29:03,Alteração de valores max e min.
+26/03/2015,20:29:03,A Estrelas
+26/03/2015,20:29:03,  6.00
+26/03/2015,20:29:03,  1.00
+26/03/2015,20:29:03,6.00
+26/03/2015,20:29:03,1.00
+26/03/2015,20:29:04,Leitura de 22 produtos para 5 atributos selecionados
+26/03/2015,20:29:10,Alteração de valores max e min.
+26/03/2015,20:29:10,A Estrelas
+26/03/2015,20:29:10,  6.00
+26/03/2015,20:29:10,  1.00
+26/03/2015,20:29:10,6.00
+26/03/2015,20:29:10,1.00
+26/03/2015,20:29:11,Leitura de 22 produtos para 5 atributos selecionados
+26/03/2015,20:30:35,39.78A Preço (R$) selecionado apontado pelo mouse
+26/03/2015,20:30:38,Importancia do atributo C Distancia da Praia para 80
+26/03/2015,20:30:38,1.00C Distancia da Praia selecionado apontado pelo mouse
+26/03/2015,20:30:43,Alteração de valores max e min.
+26/03/2015,20:30:43,C Distancia da Praia
+26/03/2015,20:30:43, 29.00
+26/03/2015,20:30:43,  1.00
+26/03/2015,20:30:43,29
+26/03/2015,20:30:43,1.00
+26/03/2015,20:30:44,Leitura de 12 produtos para 5 atributos selecionados
+26/03/2015,20:30:49,3.00C Distancia do Aeroporto selecionado apontado pelo mouse
+26/03/2015,20:30:55,Alteração de valores max e min.
+26/03/2015,20:30:55,C Distancia do Aeroporto
+26/03/2015,20:30:55, 43.00
+26/03/2015,20:30:55,  3.00
+26/03/2015,20:30:55,43
+26/03/2015,20:30:55,3.00
+26/03/2015,20:30:56,Leitura de 3 produtos para 5 atributos selecionados
+26/03/2015,20:31:05,Importancia do atributo C Distancia da Praia para 80
+26/03/2015,20:31:05,1.00C Distancia da Praia selecionado apontado pelo mouse
+26/03/2015,20:31:09,Alteração de valores max e min.
+26/03/2015,20:31:09,C Distancia da Praia
+26/03/2015,20:31:09, 43.00
+26/03/2015,20:31:09,  1.00
+26/03/2015,20:31:09,43
+26/03/2015,20:31:09,1.00
+26/03/2015,20:31:11,Leitura de 7 produtos para 5 atributos selecionados
+26/03/2015,20:32:18,FIM da aplicação

@@ -1,0 +1,226 @@
+19/08/2016,18:37:38,Inicio do Teste
+19/08/2016,18:37:38,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:37:45,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:37:45,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:37:46,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:37:46,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:37:46,Disponivel B Espírito Santo apontado pelo mouse
+19/08/2016,18:37:46,B Espírito Santo
+19/08/2016,18:37:47,Leitura de 119 produtos para 1 atributos selecionados
+19/08/2016,18:37:47,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:37:49,Disponivel B Ceará apontado pelo mouse
+19/08/2016,18:37:50,Disponivel B Bahia apontado pelo mouse
+19/08/2016,18:37:50,Disponivel A Preço (R$) apontado pelo mouse
+19/08/2016,18:37:52,Disponivel B Bahia apontado pelo mouse
+19/08/2016,18:37:52,Disponivel B Ceará apontado pelo mouse
+19/08/2016,18:37:52,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:37:52,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:37:52,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:37:52,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:37:53,Disponivel B Santa Catarina apontado pelo mouse
+19/08/2016,18:37:53,Disponivel B São Paulo apontado pelo mouse
+19/08/2016,18:37:53,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+19/08/2016,18:37:53,Disponivel C Distancia da Praia apontado pelo mouse
+19/08/2016,18:37:53,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+19/08/2016,18:37:54,Disponivel C Distancia do Aeroporto apontado pelo moC Distancia do Aeroporto
+19/08/2016,18:37:55,C Distancia do Aeroporto
+19/08/2016,18:37:55,Leitura de 119 produtos para 2 atributos selecionados
+19/08/2016,18:37:55,Disponivel D Ar-Condicionado apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Frigobar apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:37:57,Disponivel D Internet apontado pelo mouse
+19/08/2016,18:37:59,D Internet
+19/08/2016,18:37:59,Leitura de 79 produtos para 3 atributos selecionados
+19/08/2016,18:37:59,Disponivel D Itens de Lazer apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Frigobar apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:38:00,Disponivel D Ar-Condicionado apontado pelo mouse
+19/08/2016,18:38:00,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+19/08/2016,18:38:01,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+19/08/2016,18:38:01,Disponivel B São Paulo apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Santa Catarina apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Ceará apontado pelo mouse
+19/08/2016,18:38:01,Disponivel B Bahia apontado pelo mouse
+19/08/2016,18:38:01,Disponivel A Preço (R$) apontado pelo mouse
+19/08/2016,18:38:03,A Preço (R$)
+19/08/2016,18:38:04,Leitura de 79 produtos para 4 atributos selecionados
+19/08/2016,18:38:04,Disponivel B Bahia apontado pelo mouse
+19/08/2016,18:38:04,Disponivel B Ceará apontado pelo mouse
+19/08/2016,18:38:05,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:38:05,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:38:05,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:38:05,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:38:05,Disponivel B Santa Catarina apontado pelo mouse
+19/08/2016,18:38:05,Disponivel B São Paulo apontado pelo mouse
+19/08/2016,18:38:05,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+19/08/2016,18:38:05,Disponivel C Distancia da Praia apontado pelo mouse
+19/08/2016,18:38:05,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+19/08/2016,18:38:05,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:38:05,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:38:05,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:38:05,Disponivel D Frigobar apontado pelo mouse
+19/08/2016,18:38:05,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:38:05,Disponivel D Itens de Lazer apontado pelo mouse
+19/08/2016,18:38:05,Disponivel D Lavanderia apontado pelo mouse
+19/08/2016,18:38:06,Disponivel D Massagem apontado pelo mouse
+19/08/2016,18:38:06,Disponivel D Número de camas apontado pelo mouse
+19/08/2016,18:38:07,Disponivel D Piscina apontado pelo mouse
+19/08/2016,18:38:08,Disponivel D Número de camas apontado pelo mouse
+19/08/2016,18:38:08,Disponivel D Massagem apontado pelo mouse
+19/08/2016,18:38:08,Disponivel D Lavanderia apontado pelo mouse
+19/08/2016,18:38:08,Disponivel D Itens de Lazer apontado pelo mouse
+19/08/2016,18:38:08,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:38:08,Disponivel D Frigobar apontado pelo mouse
+19/08/2016,18:38:09,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:38:09,Disponivel D Frigobar apontado pelo mouse
+19/08/2016,18:38:09,D Frigobar
+19/08/2016,18:38:10,Leitura de 38 produtos para 5 atributos selecionados
+19/08/2016,18:38:10,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:38:13,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:38:13,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:38:13,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:38:15,1.00B Espírito Santo selecionado apontado pelo mouse
+19/08/2016,18:38:21,Alteração de valores max e min.
+19/08/2016,18:38:21,B Espírito Santo
+19/08/2016,18:38:21,  1.00
+19/08/2016,18:38:21,  1.00
+19/08/2016,18:38:21,1.00
+19/08/2016,18:38:21,1.00
+19/08/2016,18:38:22,Leitura de 38 produtos para 5 atributos selecionados
+19/08/2016,18:38:26,Prioridade (-) para C Distancia do Aeroporto
+19/08/2016,18:38:26,Leitura de 38 produtos para 5 atributos selecionados
+19/08/2016,18:38:28,Importancia do atributo B Espírito Santo para 66
+19/08/2016,18:38:29,Prioridade (-) para A Preço (R$)
+19/08/2016,18:38:30,Leitura de 38 produtos para 5 atributos selecionados
+19/08/2016,18:38:36,12.00C Distancia do Aeroporto selecionado apontado pelo mouse
+19/08/2016,18:38:37,Importancia do atributo A Preço (R$) para 66
+19/08/2016,18:38:37,122.05A Preço (R$) selecionado apontado pelo mouse
+19/08/2016,18:38:40,Prioridade (+) para C Distancia do Aeroporto
+19/08/2016,18:38:40,Leitura de 38 produtos para 5 atributos selecionados
+19/08/2016,18:38:43,12.00C Distancia do Aeroporto selecionado apontado pelo mouse
+19/08/2016,18:38:43,122.05A Preço (R$) selecionado apontado pelo mouse
+19/08/2016,18:38:50,Alteração de valores max e min.
+19/08/2016,18:38:50,A Preço (R$)
+19/08/2016,18:38:50,835.00
+19/08/2016,18:38:50,122.05
+19/08/2016,18:38:50,835
+19/08/2016,18:38:50,122.05
+19/08/2016,18:38:50,Leitura de 30 produtos para 5 atributos selecionados
+19/08/2016,18:38:53,12.00C Distancia do Aeroporto selecionado apontado pelo mouse
+19/08/2016,18:38:59,Alteração de valores max e min.
+19/08/2016,18:38:59,C Distancia do Aeroporto
+19/08/2016,18:38:59, 84.00
+19/08/2016,18:38:59, 12.00
+19/08/2016,18:38:59,84
+19/08/2016,18:38:59,12.00
+19/08/2016,18:39:00,Leitura de 29 produtos para 5 atributos selecionados
+19/08/2016,18:39:02,122.05A Preço (R$) selecionado apontado pelo mouse
+19/08/2016,18:39:08,Alteração de valores max e min.
+19/08/2016,18:39:08,A Preço (R$)
+19/08/2016,18:39:08,400.00
+19/08/2016,18:39:08,122.05
+19/08/2016,18:39:08,400
+19/08/2016,18:39:08,122.05
+19/08/2016,18:39:09,Leitura de 18 produtos para 5 atributos selecionados
+19/08/2016,18:39:16,Alteração de valores max e min.
+19/08/2016,18:39:16,A Preço (R$)
+19/08/2016,18:39:16,300.00
+19/08/2016,18:39:16,122.05
+19/08/2016,18:39:16,300
+19/08/2016,18:39:16,122.05
+19/08/2016,18:39:16,Leitura de 15 produtos para 5 atributos selecionados
+19/08/2016,18:39:31,Alteração de valores max e min.
+19/08/2016,18:39:31,A Preço (R$)
+19/08/2016,18:39:31,250.00
+19/08/2016,18:39:31,122.05
+19/08/2016,18:39:31,250
+19/08/2016,18:39:31,122.05
+19/08/2016,18:39:32,Leitura de 13 produtos para 5 atributos selecionados
+19/08/2016,18:39:34,12.00C Distancia do Aeroporto selecionado apontado pelo mouse
+19/08/2016,18:39:42,Alteração de valores max e min.
+19/08/2016,18:39:42,C Distancia do Aeroporto
+19/08/2016,18:39:42, 50.00
+19/08/2016,18:39:42, 12.00
+19/08/2016,18:39:42,50
+19/08/2016,18:39:42,12.00
+19/08/2016,18:39:43,Leitura de 7 produtos para 5 atributos selecionados
+19/08/2016,18:40:34,Disponivel B Bahia apontado pelo mouse
+19/08/2016,18:40:34,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:40:34,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:40:34,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:40:34,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:40:34,Disponivel B Santa Catarina apontado pelo mouse
+19/08/2016,18:40:35,Disponivel B São Paulo apontado pelo mouse
+19/08/2016,18:40:35,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+19/08/2016,18:40:35,Disponivel C Distancia da Praia apontado pelo mouse
+19/08/2016,18:40:35,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+19/08/2016,18:40:35,Disponivel B São Paulo apontado pelo mouse
+19/08/2016,18:40:36,Disponivel B Santa Catarina apontado pelo mouse
+19/08/2016,18:40:36,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:40:36,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:40:37,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:40:37,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:40:37,Disponivel B Ceará apontado pelo mouse
+19/08/2016,18:40:37,Disponivel B Bahia apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B Ceará apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B Maranhão apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B Paraná apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B Pernambuco apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B Rio de Janeiro apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B Santa Catarina apontado pelo mouse
+19/08/2016,18:40:38,Disponivel B São Paulo apontado pelo mouse
+19/08/2016,18:40:38,Disponivel C Distancia da Ferroviária apontado pelo C Distancia da Ferroviária
+19/08/2016,18:40:39,Disponivel C Distancia da Praia apontado pelo mouse
+19/08/2016,18:40:39,Disponivel C Distancia da Rodoviária apontado pelo mC Distancia da Rodoviária
+19/08/2016,18:40:39,Disponivel D Ar-Condicionado apontado pelo mouse
+19/08/2016,18:40:39,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:40:39,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:40:39,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:40:39,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:40:39,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:40:40,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:40:40,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:40:40,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:40:41,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:40:41,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:40:41,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:40:42,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:40:42,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:40:42,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:40:42,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:40:42,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:40:42,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:40:43,Disponivel D Ar-Condicionado apontado pelo mouse
+19/08/2016,18:40:43,D Ar-Condicionado
+19/08/2016,18:40:43,Leitura de 4 produtos para 6 atributos selecionados
+19/08/2016,18:40:43,Disponivel D Cofre apontado pelo mouse
+19/08/2016,18:40:44,Disponivel D Computador apontado pelo mouse
+19/08/2016,18:40:44,Disponivel D Correios apontado pelo mouse
+19/08/2016,18:40:44,Disponivel D Fitness apontado pelo mouse
+19/08/2016,18:40:44,Disponivel D Garagem apontado pelo mouse
+19/08/2016,18:40:44,Disponivel D Itens de Lazer apontado pelo mouse
+19/08/2016,18:40:51,Alterando degrade X: 312Alterando degrade Y: 315
+19/08/2016,18:40:51,Resposta Não e programa continua!!!
+19/08/2016,18:40:52,Leitura de 4 produtos para 6 atributos selecionados
+19/08/2016,18:40:55,Alterando degrade X: 485Alterando degrade Y: 186
+19/08/2016,18:40:55,Resposta Não e programa continua!!!
+19/08/2016,18:40:55,Leitura de 4 produtos para 6 atributos selecionados
+19/08/2016,18:40:56,Alterando degrade X: 73Alterando degrade Y: 510
+19/08/2016,18:40:56,Resposta Não e programa continua!!!
+19/08/2016,18:40:56,Leitura de 4 produtos para 6 atributos selecionados
+19/08/2016,18:40:59,Leitura de 4 produtos para 6 atributos selecionados
+19/08/2016,18:41:08,000 de fundo alterada 
+19/08/2016,18:41:08,Leitura de 4 produtos para 6 atributos selecionados
+19/08/2016,18:41:11,FIM da aplicação

@@ -1,0 +1,67 @@
+29/11/2006,23:33:17,Inicio do Teste
+29/11/2006,23:33:17,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+29/11/2006,23:33:18,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+29/11/2006,23:33:18,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+29/11/2006,23:33:18,Atributo Disponivel B Paraná apontado pelo mouse
+29/11/2006,23:33:18,Atributo Disponivel B Maranhão apontado pelo mouse
+29/11/2006,23:33:18,Atributo Disponivel B Espírito Santo apontado pelo mB Espírito Santo
+29/11/2006,23:33:18,Atributo Disponivel B Ceará apontado pelo mouse
+29/11/2006,23:33:18,Atributo Disponivel B Bahia apontado pelo mouse
+29/11/2006,23:33:18,Atributo Disponivel A Preço (R$) apontado pelo mouseA Preço (R$)
+29/11/2006,23:33:18,Atributo Disponivel A Estrelas apontado pelo mouse
+29/11/2006,23:33:18,Atributo Disponivel A Preço (R$) apontado pelo mouseA Preço (R$)
+29/11/2006,23:33:20,Atributo Disponivel A Estrelas apontado pelo mouse
+29/11/2006,23:33:21,Atributo Disponivel A Preço (R$) apontado pelo mouseA Preço (R$)
+29/11/2006,23:33:21,Atributo Disponivel B Bahia apontado pelo mouse
+29/11/2006,23:33:21,Atributo a selecionar clicado: A Estrelas
+29/11/2006,23:33:21,Atributo a selecionar clicado: A Preço (R$)
+29/11/2006,23:33:21,Atributo a selecionar clicado: B Bahia
+29/11/2006,23:33:21,Atributo Disponivel B Maranhão apontado pelo mouse
+29/11/2006,23:33:22,Atributo Disponivel B Espírito Santo apontado pelo mB Espírito Santo
+29/11/2006,23:33:22,Atributo Disponivel B Ceará apontado pelo mouse
+29/11/2006,23:33:24,Produtos Lidos: 0 para 3 atributos selecionados
+30/11/2006,14:03:54,Inicio do Teste
+30/11/2006,14:03:55,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+30/11/2006,14:03:55,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+30/11/2006,14:03:55,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+30/11/2006,14:03:55,Atributo Disponivel B Bahia apontado pelo mouse
+30/11/2006,14:03:55,Atributo Disponivel A Preço (R$) apontado pelo mouseA Preço (R$)
+30/11/2006,14:03:55,Atributo Disponivel A Estrelas apontado pelo mouse
+30/11/2006,14:03:56,Atributo Disponivel A Preço (R$) apontado pelo mouseA Preço (R$)
+30/11/2006,14:03:56,Atributo Disponivel B Bahia apontado pelo mouse
+30/11/2006,14:03:56,Atributo Disponivel B Ceará apontado pelo mouse
+30/11/2006,14:03:56,Atributo Disponivel B Espírito Santo apontado pelo mB Espírito Santo
+30/11/2006,14:03:56,Atributo Disponivel B Maranhão apontado pelo mouse
+30/11/2006,14:03:56,Atributo Disponivel B Paraná apontado pelo mouse
+30/11/2006,14:03:56,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+30/11/2006,14:03:56,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+30/11/2006,14:03:56,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+30/11/2006,14:03:56,Atributo Disponivel B São Paulo apontado pelo mouse
+30/11/2006,14:03:56,Atributo Disponivel C Distancia da Ferroviária apontC Distancia da Ferroviária
+30/11/2006,14:03:56,Atributo Disponivel C Distancia da Praia apontado peC Distancia da Praia
+30/11/2006,14:03:57,Atributo Disponivel C Distancia da Ferroviária apontC Distancia da Ferroviária
+30/11/2006,14:03:57,Atributo Disponivel B São Paulo apontado pelo mouse
+30/11/2006,14:03:57,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+30/11/2006,14:03:57,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+30/11/2006,14:03:57,Atributo Disponivel B Pernambuco apontado pelo mouseB Pernambuco
+30/11/2006,14:03:58,Atributo a selecionar clicado: A Estrelas
+30/11/2006,14:03:58,Atributo a selecionar clicado: A Preço (R$)
+30/11/2006,14:03:58,Atributo a selecionar clicado: B Bahia
+30/11/2006,14:03:58,Atributo a selecionar clicado: B Ceará
+30/11/2006,14:03:58,Atributo a selecionar clicado: B Espírito Santo
+30/11/2006,14:03:58,Atributo a selecionar clicado: B Maranhão
+30/11/2006,14:03:58,Atributo a selecionar clicado: B Paraná
+30/11/2006,14:03:58,Atributo a selecionar clicado: B Pernambuco
+30/11/2006,14:03:58,Atributo Disponivel D Ar-Condicionado apontado pelo D Ar-Condicionado
+30/11/2006,14:03:59,Atributo Disponivel C Distancia do Aeroporto apontadC Distancia do Aeroporto
+30/11/2006,14:03:59,Atributo Disponivel C Distancia da Rodoviária apontaC Distancia da Rodoviária
+30/11/2006,14:03:59,Atributo Disponivel C Distancia da Praia apontado peC Distancia da Praia
+30/11/2006,14:03:59,Atributo Disponivel C Distancia da Ferroviária apontC Distancia da Ferroviária
+30/11/2006,14:03:59,Atributo Disponivel B São Paulo apontado pelo mouse
+30/11/2006,14:03:59,Atributo Disponivel B Santa Catarina apontado pelo mB Santa Catarina
+30/11/2006,14:03:59,Atributo Disponivel B Rio de Janeiro apontado pelo mB Rio de Janeiro
+30/11/2006,14:04:01,Produtos Lidos: 1028 para 8 atributos selecionados
+30/11/2006,14:04:07,Produtos Lidos: 19 para 8 atributos selecionados
+30/11/2006,14:04:14,Produtos Lidos: 9 para 8 atributos selecionados
+30/11/2006,14:04:15,Foto/Produto Guajiru  CE escolhido
+30/11/2006,14:04:17,A resposta é sim. O programa encerrado!!!

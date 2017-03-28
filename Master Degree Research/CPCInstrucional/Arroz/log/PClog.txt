@@ -1,0 +1,54 @@
+29/11/2006,23:13:50,Inicio do Teste e 
+29/11/2006,23:13:53,Disponivel A Tipo apontado pelo mouse
+29/11/2006,23:13:53,Disponivel A Preço apontado pelo mouse
+29/11/2006,23:13:53,Disponivel A Peso apontado pelo mouse
+29/11/2006,23:13:53,Disponivel A Integral apontado pelo mouse
+29/11/2006,23:13:53,Disponivel A Embalagem apontado pelo mouse
+29/11/2006,23:16:49,Inicio do Teste e 
+29/11/2006,23:21:56,Inicio do Teste e 
+29/11/2006,23:31:06,Inicio do Teste e 
+29/11/2006,23:31:07,Disponivel A Tipo apontado pelo mouse
+29/11/2006,23:31:07,Disponivel A Preço apontado pelo mouse
+29/11/2006,23:31:07,Disponivel A Peso apontado pelo mouse
+29/11/2006,23:31:07,Disponivel A Integral apontado pelo mouse
+29/11/2006,23:31:08,Disponivel A Embalagem apontado pelo mouse
+29/11/2006,23:31:08,Disponivel A Integral apontado pelo mouse
+29/11/2006,23:31:08,Disponivel A Peso apontado pelo mouse
+29/11/2006,23:31:08,Disponivel A Preço apontado pelo mouse
+29/11/2006,23:31:08,Disponivel A Tipo apontado pelo mouse
+29/11/2006,23:31:09,A Embalagem
+29/11/2006,23:31:09,A Integral
+29/11/2006,23:31:09,A Peso
+29/11/2006,23:31:09,A Preço
+29/11/2006,23:31:09,A Tipo
+29/11/2006,23:31:09,Leitura de 8 produtos para 5 atributos selecionados
+29/11/2006,23:31:10,2.00A Peso selecionado apontado pelo mouse
+29/11/2006,23:31:14,Alteração de valores max e min.
+29/11/2006,23:31:14,A Peso
+29/11/2006,23:31:14,  5.00
+29/11/2006,23:31:14,  2.00
+29/11/2006,23:31:14,5
+29/11/2006,23:31:14,2.00
+29/11/2006,23:31:14,Leitura de 4 produtos para 5 atributos selecionados
+29/11/2006,23:31:19,Alterando degrade X: 404Alterando degrade Y: 400
+29/11/2006,23:31:21,Resposta Sim e progrma encerrado!!!
+30/11/2006,14:01:43,Inicio do Teste e 
+30/11/2006,14:01:44,Disponivel A Tipo apontado pelo mouse
+30/11/2006,14:01:45,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:01:45,Disponivel A Peso apontado pelo mouse
+30/11/2006,14:01:45,Disponivel A Integral apontado pelo mouse
+30/11/2006,14:01:45,Disponivel A Embalagem apontado pelo mouse
+30/11/2006,14:01:46,Disponivel A Integral apontado pelo mouse
+30/11/2006,14:01:46,Disponivel A Peso apontado pelo mouse
+30/11/2006,14:01:46,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:01:46,Disponivel A Tipo apontado pelo mouse
+30/11/2006,14:01:46,A Embalagem
+30/11/2006,14:01:46,A Integral
+30/11/2006,14:01:46,A Peso
+30/11/2006,14:01:46,A Preço
+30/11/2006,14:01:46,A Tipo
+30/11/2006,14:01:47,Leitura de 8 produtos para 5 atributos selecionados
+30/11/2006,14:01:48,2.00A Peso selecionado apontado pelo mouse
+30/11/2006,14:01:53,Alterando degrade X: 235Alterando degrade Y: 176
+30/11/2006,14:01:58,Resposta Sim e progrma encerrado!!!
+30/11/2006,18:00:43,Inicio do Teste e 

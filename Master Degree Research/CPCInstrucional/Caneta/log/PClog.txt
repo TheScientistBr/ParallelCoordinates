@@ -1,0 +1,113 @@
+29/11/2006,23:13:58,Inicio do Teste e 
+29/11/2006,23:16:52,Inicio do Teste e 
+29/11/2006,23:21:58,Inicio do Teste e 
+29/11/2006,23:31:22,Inicio do Teste e 
+29/11/2006,23:31:23,Disponivel B Vermelho apontado pelo mouse
+29/11/2006,23:31:23,Disponivel B Preta apontado pelo mouse
+29/11/2006,23:31:23,Disponivel B Azul apontado pelo mouse
+29/11/2006,23:31:23,Disponivel A Tampa apontado pelo mouse
+29/11/2006,23:31:23,Disponivel A Tamanho apontado pelo mouse
+29/11/2006,23:31:24,Disponivel A Preço apontado pelo mouse
+29/11/2006,23:31:24,Disponivel A Peso apontado pelo mouse
+29/11/2006,23:31:24,A Peso
+29/11/2006,23:31:24,A Preço
+29/11/2006,23:31:24,A Tamanho
+29/11/2006,23:31:24,A Tampa
+29/11/2006,23:31:24,B Azul
+29/11/2006,23:31:24,B Preta
+29/11/2006,23:31:24,B Vermelho
+29/11/2006,23:31:24,Leitura de 20 produtos para 7 atributos selecionados
+29/11/2006,23:31:25,2.00A Peso selecionado apontado pelo mouse
+29/11/2006,23:31:29,Importancia do atributo A Preço para 80
+29/11/2006,23:31:29,4.28A Preço selecionado apontado pelo mouse
+29/11/2006,23:31:29,2.00A Peso selecionado apontado pelo mouse
+29/11/2006,23:31:35,Alteração de valores max e min.
+29/11/2006,23:31:35,A Peso
+29/11/2006,23:31:35,  2.00
+29/11/2006,23:31:35,  2.00
+29/11/2006,23:31:35,2
+29/11/2006,23:31:35,2.00
+29/11/2006,23:31:35,Leitura de 1 produtos para 7 atributos selecionados
+29/11/2006,23:31:36,Alterando degrade X: 167Alterando degrade Y: 299
+29/11/2006,23:31:38,Resposta Sim e progrma encerrado!!!
+30/11/2006,13:54:01,Inicio do Teste e 
+30/11/2006,13:54:02,Disponivel B Vermelho apontado pelo mouse
+30/11/2006,13:54:02,Disponivel B Preta apontado pelo mouse
+30/11/2006,13:54:02,Disponivel B Azul apontado pelo mouse
+30/11/2006,13:54:02,Disponivel A Tampa apontado pelo mouse
+30/11/2006,13:54:02,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,13:54:02,Disponivel A Preço apontado pelo mouse
+30/11/2006,13:54:02,Disponivel A Peso apontado pelo mouse
+30/11/2006,13:54:04,Disponivel A Preço apontado pelo mouse
+30/11/2006,13:54:04,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,13:54:04,Disponivel A Tampa apontado pelo mouse
+30/11/2006,13:54:04,Disponivel B Azul apontado pelo mouse
+30/11/2006,13:54:05,Disponivel A Tampa apontado pelo mouse
+30/11/2006,13:54:05,A Peso
+30/11/2006,13:54:05,A Preço
+30/11/2006,13:54:05,A Tamanho
+30/11/2006,13:54:05,A Tampa
+30/11/2006,13:54:05,Leitura de 14 produtos para 4 atributos selecionados
+30/11/2006,13:54:06,Disponivel B Vermelho apontado pelo mouse
+30/11/2006,13:54:07,Disponivel B Preta apontado pelo mouse
+30/11/2006,13:54:07,Disponivel B Azul apontado pelo mouse
+30/11/2006,13:54:07,B Azul
+30/11/2006,13:54:07,Leitura de 0 produtos para 5 atributos selecionados
+30/11/2006,13:54:07,Disponivel B Preta apontado pelo mouse
+30/11/2006,14:02:00,Inicio do Teste e 
+30/11/2006,14:02:01,Disponivel B Vermelho apontado pelo mouse
+30/11/2006,14:02:01,Disponivel B Preta apontado pelo mouse
+30/11/2006,14:02:01,Disponivel B Azul apontado pelo mouse
+30/11/2006,14:02:01,Disponivel A Tampa apontado pelo mouse
+30/11/2006,14:02:01,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:02:01,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:02:01,Disponivel A Peso apontado pelo mouse
+30/11/2006,14:02:02,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:02:02,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:02:02,Disponivel A Tampa apontado pelo mouse
+30/11/2006,14:02:02,Disponivel B Azul apontado pelo mouse
+30/11/2006,14:02:02,Disponivel B Preta apontado pelo mouse
+30/11/2006,14:02:02,Disponivel B Vermelho apontado pelo mouse
+30/11/2006,14:02:02,A Peso
+30/11/2006,14:02:02,A Preço
+30/11/2006,14:02:02,A Tamanho
+30/11/2006,14:02:02,A Tampa
+30/11/2006,14:02:02,B Azul
+30/11/2006,14:02:02,B Preta
+30/11/2006,14:02:02,B Vermelho
+30/11/2006,14:02:02,Leitura de 30 produtos para 7 atributos selecionados
+30/11/2006,14:02:05,2.00A Peso selecionado apontado pelo mouse
+30/11/2006,14:02:05,Importancia do atributo A Preço para 80
+30/11/2006,14:02:05,2.21A Preço selecionado apontado pelo mouse
+30/11/2006,14:02:08,Alteração de valores max e min.
+30/11/2006,14:02:08,A Preço
+30/11/2006,14:02:08,  5.00
+30/11/2006,14:02:08,  2.21
+30/11/2006,14:02:08,5
+30/11/2006,14:02:08,2.21
+30/11/2006,14:02:09,Leitura de 1 produtos para 7 atributos selecionados
+30/11/2006,14:02:10,Alterando degrade X: 141Alterando degrade Y: 308
+30/11/2006,14:02:13,Resposta Sim e progrma encerrado!!!
+30/11/2006,14:10:33,Inicio do Teste e 
+30/11/2006,14:10:34,Disponivel B Vermelho apontado pelo mouse
+30/11/2006,14:10:34,Disponivel B Preta apontado pelo mouse
+30/11/2006,14:10:34,Disponivel B Azul apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Tampa apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Peso apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:10:34,Disponivel A Tampa apontado pelo mouse
+30/11/2006,14:10:34,Disponivel B Azul apontado pelo mouse
+30/11/2006,14:10:34,Disponivel B Preta apontado pelo mouse
+30/11/2006,14:10:34,Disponivel B Vermelho apontado pelo mouse
+30/11/2006,14:10:35,A Peso
+30/11/2006,14:10:35,A Preço
+30/11/2006,14:10:35,A Tamanho
+30/11/2006,14:10:35,A Tampa
+30/11/2006,14:10:35,B Azul
+30/11/2006,14:10:35,B Preta
+30/11/2006,14:10:35,B Vermelho
+30/11/2006,14:10:35,Leitura de 30 produtos para 7 atributos selecionados
+30/11/2006,18:00:47,Inicio do Teste e 

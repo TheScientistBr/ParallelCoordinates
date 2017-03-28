@@ -1,0 +1,2 @@
+cd Seletor
+seletor.exe

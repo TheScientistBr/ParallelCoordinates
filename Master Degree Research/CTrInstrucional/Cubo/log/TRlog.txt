@@ -1,0 +1,47 @@
+29/11/2006,23:17:21,Inicio do Teste
+29/11/2006,23:22:23,Inicio do Teste
+29/11/2006,23:33:01,Inicio do Teste
+29/11/2006,23:33:01,Atributo Disponivel A Vidro apontado pelo mouse
+29/11/2006,23:33:01,Atributo Disponivel A Tamanho apontado pelo mouse
+29/11/2006,23:33:01,Atributo Disponivel A Preço apontado pelo mouse
+29/11/2006,23:33:01,Atributo Disponivel A Plástico apontado pelo mouse
+29/11/2006,23:33:01,Atributo Disponivel A Peso apontado pelo mouse
+29/11/2006,23:33:01,Atributo Disponivel A Número de Peças apontado pelo A Número de Peças
+29/11/2006,23:33:01,Atributo Disponivel A Número de Cores apontado pelo A Número de Cores
+29/11/2006,23:33:02,Atributo Disponivel A Número de Peças apontado pelo A Número de Peças
+29/11/2006,23:33:02,Atributo Disponivel A Peso apontado pelo mouse
+29/11/2006,23:33:02,Atributo a selecionar clicado: A Número de Cores
+29/11/2006,23:33:02,Atributo a selecionar clicado: A Número de Peças
+29/11/2006,23:33:02,Atributo a selecionar clicado: A Peso
+29/11/2006,23:33:02,Atributo Disponivel A Tamanho apontado pelo mouse
+29/11/2006,23:33:02,Atributo Disponivel A Preço apontado pelo mouse
+29/11/2006,23:33:02,Atributo Disponivel A Plástico apontado pelo mouse
+29/11/2006,23:33:03,Produtos Lidos: 30 para 3 atributos selecionados
+29/11/2006,23:33:10,Produtos Lidos: 9 para 3 atributos selecionados
+29/11/2006,23:33:11,Foto/Produto Cubo derr escolhido
+29/11/2006,23:33:13,A resposta é sim. O programa encerrado!!!
+30/11/2006,14:03:42,Inicio do Teste
+30/11/2006,14:03:43,Atributo Disponivel A Vidro apontado pelo mouse
+30/11/2006,14:03:43,Atributo Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:03:43,Atributo Disponivel A Preço apontado pelo mouse
+30/11/2006,14:03:43,Atributo Disponivel A Plástico apontado pelo mouse
+30/11/2006,14:03:43,Atributo Disponivel A Peso apontado pelo mouse
+30/11/2006,14:03:43,Atributo Disponivel A Número de Peças apontado pelo A Número de Peças
+30/11/2006,14:03:43,Atributo Disponivel A Número de Cores apontado pelo A Número de Cores
+30/11/2006,14:03:44,Atributo Disponivel A Número de Peças apontado pelo A Número de Peças
+30/11/2006,14:03:44,Atributo Disponivel A Peso apontado pelo mouse
+30/11/2006,14:03:44,Atributo Disponivel A Plástico apontado pelo mouse
+30/11/2006,14:03:44,Atributo Disponivel A Preço apontado pelo mouse
+30/11/2006,14:03:44,Atributo Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:03:44,Atributo Disponivel A Vidro apontado pelo mouse
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Número de Cores
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Número de Peças
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Peso
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Plástico
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Preço
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Tamanho
+30/11/2006,14:03:44,Atributo a selecionar clicado: A Vidro
+30/11/2006,14:03:46,Produtos Lidos: 8 para 7 atributos selecionados
+30/11/2006,14:03:47,Foto/Produto Cubo oiwq escolhido
+30/11/2006,14:03:50,A resposta é sim. O programa encerrado!!!
+30/11/2006,17:59:22,Inicio do Teste

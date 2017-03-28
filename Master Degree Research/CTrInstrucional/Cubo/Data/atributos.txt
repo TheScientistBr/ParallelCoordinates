@@ -1,0 +1,7 @@
+ 1,A Número de Cores,i,c,imagens/Atributos/cores.bmp
+ 2,A Plástico,n,n,imagens/Atributos/plastico.bmp
+ 3,A Preço,i,d,imagens/Atributos/preco.bmp
+ 4,A Peso,i,d,imagens/Atributos/peso.bmp
+ 5,A Vidro,n,n,imagens/Atributos/vidro.bmp
+ 6,A Tamanho,i,d,imagens/Atributos/tamanho.bmp
+ 7,A Número de Peças,i,c,imagens/Atributos/pecas.bmp

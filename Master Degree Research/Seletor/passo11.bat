@@ -1,0 +1,3 @@
+cd ..\QuestMestrado
+Questionario.exe
+

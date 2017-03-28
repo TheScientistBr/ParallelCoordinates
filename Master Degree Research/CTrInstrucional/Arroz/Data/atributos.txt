@@ -1,0 +1,5 @@
+1,A Tipo,i,c,imagens/Atributos/tipo.bmp
+2,A Embalagem,n,n,imagens/Atributos/embalagem.bmp
+3,A Preço,i,d,imagens/Atributos/preco.bmp
+4,A Peso,i,d,imagens/Atributos/peso.bmp
+5,A Integral,n,n,imagens/Atributos/integral.bmp

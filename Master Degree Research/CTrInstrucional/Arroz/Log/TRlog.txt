@@ -1,0 +1,70 @@
+29/11/2006,23:14:16,Inicio do Teste
+29/11/2006,23:14:18,Inicio do Teste
+29/11/2006,23:14:20,Inicio do Teste
+29/11/2006,23:14:31,Inicio do Teste
+29/11/2006,23:17:14,Inicio do Teste
+29/11/2006,23:22:17,Inicio do Teste
+29/11/2006,23:32:32,Inicio do Teste
+29/11/2006,23:32:32,Atributo Disponivel A Tipo apontado pelo mouse
+29/11/2006,23:32:32,Atributo Disponivel A Preço apontado pelo mouse
+29/11/2006,23:32:32,Atributo Disponivel A Peso apontado pelo mouse
+29/11/2006,23:32:33,Atributo Disponivel A Integral apontado pelo mouse
+29/11/2006,23:32:33,Atributo Disponivel A Embalagem apontado pelo mouse
+29/11/2006,23:32:33,Atributo Disponivel A Integral apontado pelo mouse
+29/11/2006,23:32:33,Atributo Disponivel A Peso apontado pelo mouse
+29/11/2006,23:32:34,Atributo a selecionar clicado: A Embalagem
+29/11/2006,23:32:34,Atributo a selecionar clicado: A Integral
+29/11/2006,23:32:34,Atributo a selecionar clicado: A Peso
+29/11/2006,23:32:34,Atributo Disponivel A Tipo apontado pelo mouse
+29/11/2006,23:32:37,Produtos Lidos: 8 para 3 atributos selecionados
+29/11/2006,23:32:41,Produtos Lidos: 1 para 3 atributos selecionados
+29/11/2006,23:32:42,Foto/Produto Arroz oiwq escolhido
+29/11/2006,23:32:44,A resposta é sim. O programa encerrado!!!
+30/11/2006,14:03:12,Inicio do Teste
+30/11/2006,14:03:13,Atributo Disponivel A Tipo apontado pelo mouse
+30/11/2006,14:03:13,Atributo Disponivel A Preço apontado pelo mouse
+30/11/2006,14:03:13,Atributo Disponivel A Peso apontado pelo mouse
+30/11/2006,14:03:13,Atributo Disponivel A Integral apontado pelo mouse
+30/11/2006,14:03:13,Atributo Disponivel A Embalagem apontado pelo mouse
+30/11/2006,14:03:13,Atributo Disponivel A Integral apontado pelo mouse
+30/11/2006,14:03:13,Atributo Disponivel A Peso apontado pelo mouse
+30/11/2006,14:03:14,Atributo Disponivel A Preço apontado pelo mouse
+30/11/2006,14:03:14,Atributo Disponivel A Tipo apontado pelo mouse
+30/11/2006,14:03:14,Atributo a selecionar clicado: A Embalagem
+30/11/2006,14:03:14,Atributo a selecionar clicado: A Integral
+30/11/2006,14:03:14,Atributo a selecionar clicado: A Peso
+30/11/2006,14:03:14,Atributo a selecionar clicado: A Preço
+30/11/2006,14:03:14,Atributo a selecionar clicado: A Tipo
+30/11/2006,14:03:16,Produtos Lidos: 8 para 5 atributos selecionados
+30/11/2006,14:03:18,Foto/Produto Arroz oiwq escolhido
+30/11/2006,14:03:20,A resposta é sim. O programa encerrado!!!
+30/11/2006,17:59:17,Inicio do Teste
+23/03/2015,22:22:32,Inicio do Teste
+23/03/2015,22:22:39,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:39,Atributo Disponivel A Integral apontado pelo mouse
+23/03/2015,22:22:39,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:39,Atributo Disponivel A Preço apontado pelo mouse
+23/03/2015,22:22:40,Atributo Disponivel A Tipo apontado pelo mouse
+23/03/2015,22:22:40,Atributo Disponivel A Preço apontado pelo mouse
+23/03/2015,22:22:40,Atributo Disponivel A Tipo apontado pelo mouse
+23/03/2015,22:22:42,Atributo Disponivel A Preço apontado pelo mouse
+23/03/2015,22:22:42,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:42,Atributo Disponivel A Integral apontado pelo mouse
+23/03/2015,22:22:45,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:45,Atributo Disponivel A Preço apontado pelo mouse
+23/03/2015,22:22:46,Atributo Disponivel A Embalagem apontado pelo mouse
+23/03/2015,22:22:46,Atributo Disponivel A Integral apontado pelo mouse
+23/03/2015,22:22:46,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:47,Atributo Disponivel A Preço apontado pelo mouse
+23/03/2015,22:22:47,Atributo Disponivel A Tipo apontado pelo mouse
+23/03/2015,22:22:48,Atributo Disponivel A Integral apontado pelo mouse
+23/03/2015,22:22:51,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:51,Atributo Disponivel A Integral apontado pelo mouse
+23/03/2015,22:22:51,Atributo a selecionar clicado: A Integral
+23/03/2015,22:22:51,Atributo Disponivel A Preço apontado pelo mouse
+23/03/2015,22:22:52,Atributo a selecionar clicado: A Preço
+23/03/2015,22:22:52,Atributo Disponivel A Peso apontado pelo mouse
+23/03/2015,22:22:54,Atributo a selecionar clicado: A Peso
+23/03/2015,22:22:54,Atributo Disponivel A Tipo apontado pelo mouse
+23/03/2015,22:22:56,Produtos Lidos: 14 para 3 atributos selecionados
+23/03/2015,22:23:04,Fim do teste sem escolha do produto

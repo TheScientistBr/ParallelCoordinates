@@ -1,0 +1,3 @@
+cd ..\Instrucional  
+PCCatalog.pps
+

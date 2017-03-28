@@ -1,0 +1,21 @@
+Experimento de Mestrado == Delermando Branquinho Filho
+
+1.	Copie a linha abaixo para ser executada após a
+	instalação;
+
+	c:\Experimento\Iniciar-Experimento.bat
+
+2.	Após a instalação:
+
+2.1.	Clique no botão Iniciar;
+2.2.	Escolha a opção Executar;
+2.3.	Cole a linha copiada no item 1.
+2.4.	Clique em OK.
+
+3.	Boa Sorte e Obrigado!!!	
+
+
+
+
+
+

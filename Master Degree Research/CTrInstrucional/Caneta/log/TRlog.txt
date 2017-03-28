@@ -1,0 +1,51 @@
+29/11/2006,23:17:18,Inicio do Teste
+29/11/2006,23:22:20,Inicio do Teste
+29/11/2006,23:32:46,Inicio do Teste
+29/11/2006,23:32:46,Atributo Disponivel B Vermelho apontado pelo mouse
+29/11/2006,23:32:46,Atributo Disponivel B Preta apontado pelo mouse
+29/11/2006,23:32:46,Atributo Disponivel B Azul apontado pelo mouse
+29/11/2006,23:32:46,Atributo Disponivel A Tampa apontado pelo mouse
+29/11/2006,23:32:46,Atributo Disponivel A Tamanho apontado pelo mouse
+29/11/2006,23:32:47,Atributo Disponivel A Preço apontado pelo mouse
+29/11/2006,23:32:47,Atributo Disponivel A Peso apontado pelo mouse
+29/11/2006,23:32:47,Atributo Disponivel A Preço apontado pelo mouse
+29/11/2006,23:32:47,Atributo Disponivel A Tamanho apontado pelo mouse
+29/11/2006,23:32:47,Atributo a selecionar clicado: A Peso
+29/11/2006,23:32:47,Atributo a selecionar clicado: A Preço
+29/11/2006,23:32:47,Atributo a selecionar clicado: A Tamanho
+29/11/2006,23:32:47,Atributo Disponivel B Preta apontado pelo mouse
+29/11/2006,23:32:48,Atributo Disponivel B Azul apontado pelo mouse
+29/11/2006,23:32:48,Atributo Disponivel A Tampa apontado pelo mouse
+29/11/2006,23:32:49,Produtos Lidos: 30 para 3 atributos selecionados
+29/11/2006,23:32:54,Produtos Lidos: 7 para 3 atributos selecionados
+29/11/2006,23:32:56,Foto/Produto Caneta çsadok escolhido
+29/11/2006,23:32:58,A resposta é sim. O programa encerrado!!!
+30/11/2006,14:03:23,Inicio do Teste
+30/11/2006,14:03:24,Atributo Disponivel B Vermelho apontado pelo mouse
+30/11/2006,14:03:24,Atributo Disponivel B Preta apontado pelo mouse
+30/11/2006,14:03:24,Atributo Disponivel B Azul apontado pelo mouse
+30/11/2006,14:03:24,Atributo Disponivel A Tampa apontado pelo mouse
+30/11/2006,14:03:24,Atributo Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:03:25,Atributo Disponivel A Preço apontado pelo mouse
+30/11/2006,14:03:25,Atributo Disponivel A Peso apontado pelo mouse
+30/11/2006,14:03:26,Atributo Disponivel A Preço apontado pelo mouse
+30/11/2006,14:03:26,Atributo Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:03:26,Atributo Disponivel A Tampa apontado pelo mouse
+30/11/2006,14:03:26,Atributo Disponivel B Azul apontado pelo mouse
+30/11/2006,14:03:26,Atributo Disponivel B Preta apontado pelo mouse
+30/11/2006,14:03:26,Atributo Disponivel B Vermelho apontado pelo mouse
+30/11/2006,14:03:26,Atributo a selecionar clicado: A Peso
+30/11/2006,14:03:26,Atributo a selecionar clicado: A Preço
+30/11/2006,14:03:26,Atributo a selecionar clicado: A Tamanho
+30/11/2006,14:03:26,Atributo a selecionar clicado: A Tampa
+30/11/2006,14:03:26,Atributo a selecionar clicado: B Azul
+30/11/2006,14:03:26,Atributo a selecionar clicado: B Preta
+30/11/2006,14:03:26,Atributo a selecionar clicado: B Vermelho
+30/11/2006,14:03:27,Atributo Selecionado A Tamanho apontado pelo mouse
+30/11/2006,14:03:28,Atributo Selecionado A Preço apontado pelo mouse
+30/11/2006,14:03:28,Atributo Selecionado A Peso apontado pelo mouse
+30/11/2006,14:03:29,Produtos Lidos: 30 para 7 atributos selecionados
+30/11/2006,14:03:35,Produtos Lidos: 7 para 7 atributos selecionados
+30/11/2006,14:03:37,Foto/Produto Caneta pico escolhido
+30/11/2006,14:03:38,A resposta é sim. O programa encerrado!!!
+30/11/2006,17:59:20,Inicio do Teste

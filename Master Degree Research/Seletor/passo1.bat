@@ -1,0 +1,4 @@
+cd ..\Instrucional  
+TrCatalog.pps
+
+

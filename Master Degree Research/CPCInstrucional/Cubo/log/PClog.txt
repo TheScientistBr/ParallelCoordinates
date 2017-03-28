@@ -1,0 +1,97 @@
+29/11/2006,23:14:03,Inicio do Teste e 
+29/11/2006,23:16:59,Inicio do Teste e 
+29/11/2006,23:22:01,Inicio do Teste e 
+29/11/2006,23:31:40,Inicio do Teste e 
+29/11/2006,23:31:41,Disponivel A Vidro apontado pelo mouse
+29/11/2006,23:31:41,Disponivel A Tamanho apontado pelo mouse
+29/11/2006,23:31:41,Disponivel A Preço apontado pelo mouse
+29/11/2006,23:31:42,Disponivel A Número de Cores apontado pelo mouse
+29/11/2006,23:31:42,A Número de Cores
+29/11/2006,23:31:42,Leitura de 30 produtos para 1 atributos selecionados
+29/11/2006,23:31:42,Disponivel A Número de Peças apontado pelo mouse
+29/11/2006,23:31:43,A Número de Peças
+29/11/2006,23:31:43,Leitura de 30 produtos para 2 atributos selecionados
+29/11/2006,23:31:44,1.00A Número de Cores selecionado apontado pelo mouse
+29/11/2006,23:31:46,Alteração de valores max e min.
+29/11/2006,23:31:46,A Número de Cores
+29/11/2006,23:31:46,  1.00
+29/11/2006,23:31:46,  1.00
+29/11/2006,23:31:46,1
+29/11/2006,23:31:46,1.00
+29/11/2006,23:31:46,Leitura de 9 produtos para 2 atributos selecionados
+29/11/2006,23:31:48,Alterando degrade X: 61Alterando degrade Y: 311
+29/11/2006,23:31:49,Resposta Sim e progrma encerrado!!!
+30/11/2006,14:02:14,Inicio do Teste e 
+30/11/2006,14:02:16,Disponivel A Vidro apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Plástico apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Peso apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Número de Peças apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Número de Cores apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Número de Peças apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Peso apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Plástico apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Preço apontado pelo mouse
+30/11/2006,14:02:16,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,14:02:17,Disponivel A Vidro apontado pelo mouse
+30/11/2006,14:02:17,A Número de Cores
+30/11/2006,14:02:17,A Número de Peças
+30/11/2006,14:02:17,A Peso
+30/11/2006,14:02:17,A Plástico
+30/11/2006,14:02:17,A Preço
+30/11/2006,14:02:17,A Tamanho
+30/11/2006,14:02:17,A Vidro
+30/11/2006,14:02:17,Leitura de 8 produtos para 7 atributos selecionados
+30/11/2006,14:02:19,1.00A Número de Cores selecionado apontado pelo mouse
+30/11/2006,14:02:19,Importancia do atributo A Número de Peças para 80
+30/11/2006,14:02:19,2.00A Número de Peças selecionado apontado pelo mouse
+30/11/2006,14:02:23,Alteração de valores max e min.
+30/11/2006,14:02:23,A Número de Peças
+30/11/2006,14:02:23, 10.00
+30/11/2006,14:02:23,  2.00
+30/11/2006,14:02:23,10
+30/11/2006,14:02:23,2.00
+30/11/2006,14:02:23,Leitura de 7 produtos para 7 atributos selecionados
+30/11/2006,14:02:25,Alterando degrade X: 302Alterando degrade Y: 239
+30/11/2006,14:02:27,Resposta Sim e progrma encerrado!!!
+30/11/2006,18:00:50,Inicio do Teste e 
+30/11/2006,18:00:50,Disponivel A Vidro apontado pelo mouse
+30/11/2006,18:00:50,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,18:00:50,Disponivel A Preço apontado pelo mouse
+30/11/2006,18:00:50,Disponivel A Plástico apontado pelo mouse
+30/11/2006,18:00:50,Disponivel A Peso apontado pelo mouse
+30/11/2006,18:00:50,Disponivel A Número de Peças apontado pelo mouse
+30/11/2006,18:00:50,Disponivel A Número de Cores apontado pelo mouse
+30/11/2006,18:00:51,Disponivel A Número de Peças apontado pelo mouse
+30/11/2006,18:00:51,Disponivel A Peso apontado pelo mouse
+30/11/2006,18:00:51,Disponivel A Plástico apontado pelo mouse
+30/11/2006,18:00:51,Disponivel A Preço apontado pelo mouse
+30/11/2006,18:00:51,Disponivel A Tamanho apontado pelo mouse
+30/11/2006,18:00:51,Disponivel A Vidro apontado pelo mouse
+30/11/2006,18:00:51,A Número de Cores
+30/11/2006,18:00:51,A Número de Peças
+30/11/2006,18:00:51,A Peso
+30/11/2006,18:00:51,A Plástico
+30/11/2006,18:00:51,A Preço
+30/11/2006,18:00:51,A Tamanho
+30/11/2006,18:00:51,A Vidro
+30/11/2006,18:00:52,Leitura de 8 produtos para 7 atributos selecionados
+30/11/2006,18:00:53,Alterando degrade X: 110Alterando degrade Y: 122
+30/11/2006,18:00:53,Resposta Não e programa continua!!!
+30/11/2006,18:00:53,Leitura de 8 produtos para 7 atributos selecionados
+30/11/2006,18:00:56,Leitura de 8 produtos para 7 atributos selecionados
+30/11/2006,18:00:56,Importancia do atributo A Peso para 75
+30/11/2006,18:00:56,Importancia do atributo A Peso para 60
+30/11/2006,18:00:56,2.00A Peso selecionado apontado pelo mouse
+30/11/2006,18:00:56,Importancia do atributo A Número de Peças para 80
+30/11/2006,18:00:58,Importancia do atributo A Peso para 60
+30/11/2006,18:00:59,Alteração de valores max e min.
+30/11/2006,18:00:59,A Peso
+30/11/2006,18:00:59,210.00
+30/11/2006,18:00:59,  2.00
+30/11/2006,18:00:59,210.00
+30/11/2006,18:00:59,2.00
+30/11/2006,18:01:00,Leitura de 8 produtos para 7 atributos selecionados
+30/11/2006,18:01:03,Alterando degrade X: 172Alterando degrade Y: 419
+30/11/2006,18:01:05,Resposta Sim e progrma encerrado!!!
